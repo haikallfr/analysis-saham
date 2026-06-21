@@ -96,7 +96,7 @@ function useScan(pageMode: "sector" | "single") {
           setProgress(p => {
             if (d.progress_count > p.done) {
               const pct = Math.round((d.progress_count / d.total) * 100);
-              return { ...p, done: d.progress_count, total: d.total, pct };
+              return { ...p, done: d.progress_count, total: d.total, pct, current: d.ticker || p.current };
             }
             return p;
           });
