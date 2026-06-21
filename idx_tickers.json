@@ -1,0 +1,3467 @@
+{
+  "tickers": {
+    "AHAP": {
+      "name": "Asuransi Harta Aman Pratama Tbk PT",
+      "sector": "keuangan"
+    },
+    "MYTX": {
+      "name": "Apac Citra Centertex Tbk",
+      "sector": "industri"
+    },
+    "AKPI": {
+      "name": "Argha Karya Prima Ind Tbk",
+      "sector": "konsumer_primer"
+    },
+    "ANJT": {
+      "name": "Austindo Nusantara Jaya Tbk",
+      "sector": "tambang_logam"
+    },
+    "BNBA": {
+      "name": "Bank Bumi Arta Tbk",
+      "sector": "keuangan"
+    },
+    "BMAS": {
+      "name": "Bank Maspion Indonesia Tbk",
+      "sector": "keuangan"
+    },
+    "NAGA": {
+      "name": "Bank Mitraniaga Tbk",
+      "sector": "keuangan"
+    },
+    "NISP": {
+      "name": "Bank Ocbc Nisp Tbk",
+      "sector": "keuangan"
+    },
+    "BSWD": {
+      "name": "Bank Of India Indonesia Tbk",
+      "sector": "keuangan"
+    },
+    "BKSW": {
+      "name": "Bank Qnb Indonesia Tbk",
+      "sector": "keuangan"
+    },
+    "BAYU": {
+      "name": "Bayu Buana Tbk",
+      "sector": "industri"
+    },
+    "RMBA": {
+      "name": "Bentoel International Investama",
+      "sector": "keuangan"
+    },
+    "BBLD": {
+      "name": "Buana Finance Tbk",
+      "sector": "keuangan"
+    },
+    "CKRA": {
+      "name": "Cakra Mineral Tbk",
+      "sector": "tambang_logam"
+    },
+    "SCBD": {
+      "name": "Danayasa Arthatama Tbk",
+      "sector": "industri"
+    },
+    "DLTA": {
+      "name": "Delta Djakarta Tbk",
+      "sector": "konsumer_primer"
+    },
+    "PDES": {
+      "name": "Destinasi Tirta Nusantara Tbk",
+      "sector": "tambang_logam"
+    },
+    "EMTK": {
+      "name": "Elang Mahkota Teknologi Tbk",
+      "sector": "teknologi_media"
+    },
+    "EPMT": {
+      "name": "Enseval Putra Megatrading Tbk",
+      "sector": "industri"
+    },
+    "GSMF": {
+      "name": "Equity Development Investment",
+      "sector": "properti"
+    },
+    "ERTX": {
+      "name": "Eratex Djaja Tbk",
+      "sector": "industri"
+    },
+    "ESTI": {
+      "name": "Ever Shine Textile Industry",
+      "sector": "industri"
+    },
+    "FAST": {
+      "name": "Fast Food Indonesia Tbk",
+      "sector": "konsumer_primer"
+    },
+    "FISH": {
+      "name": "Fks Multi Agro Tbk",
+      "sector": "industri"
+    },
+    "GEMS": {
+      "name": "Golden Energy Mines Tbk",
+      "sector": "energi_batubara"
+    },
+    "BRAM": {
+      "name": "Indo Kordsa Tbk",
+      "sector": "industri"
+    },
+    "PTIS": {
+      "name": "Indo Straits Tbk",
+      "sector": "industri"
+    },
+    "INDR": {
+      "name": "Indorama Synthetics Tbk",
+      "sector": "industri"
+    },
+    "JKSW": {
+      "name": "Jakarta Kyoei Steel Works Tbk",
+      "sector": "industri"
+    },
+    "KBLM": {
+      "name": "Kabelindo Murni Tbk",
+      "sector": "industri"
+    },
+    "KICI": {
+      "name": "Kedaung Indah Can Tbk",
+      "sector": "industri"
+    },
+    "KOIN": {
+      "name": "Kokoh Inti Arebama Tbk",
+      "sector": "industri"
+    },
+    "LMAS": {
+      "name": "Limas Indonesia Makmur Tbk",
+      "sector": "industri"
+    },
+    "LMSH": {
+      "name": "Lionmesh Prima Tbk",
+      "sector": "konsumer_primer"
+    },
+    "FPNI": {
+      "name": "Lotte Chemical Titan Tbk PT",
+      "sector": "industri"
+    },
+    "MFIN": {
+      "name": "Mandala Multifinance Tbk",
+      "sector": "keuangan"
+    },
+    "MREI": {
+      "name": "Maskapai Reasuransi Indonesia",
+      "sector": "keuangan"
+    },
+    "MTSM": {
+      "name": "Metro Realty Tbk",
+      "sector": "properti"
+    },
+    "MKPI": {
+      "name": "Metropolitan Kentjana Tbk",
+      "sector": "industri"
+    },
+    "MFMI": {
+      "name": "Multifiling Mitra Indonesia",
+      "sector": "industri"
+    },
+    "OCAP": {
+      "name": "Onix Capital Tbk",
+      "sector": "industri"
+    },
+    "PGLI": {
+      "name": "Pembangunan Graha Lestari Tbk",
+      "sector": "industri"
+    },
+    "TMAS": {
+      "name": "Pelayaran Tempuran Emas Tbk",
+      "sector": "tambang_logam"
+    },
+    "HDTX": {
+      "name": "Panasia Indo Resources Tbk",
+      "sector": "industri"
+    },
+    "NELY": {
+      "name": "Pelayaran Nelly Dwi Putri Tbk",
+      "sector": "transportasi"
+    },
+    "RODA": {
+      "name": "Pikko Land Development Tbk",
+      "sector": "properti"
+    },
+    "PTSP": {
+      "name": "Pioneerindo Gourmet International",
+      "sector": "industri"
+    },
+    "PLIN": {
+      "name": "Plaza Indonesia Realty Tbk",
+      "sector": "properti"
+    },
+    "POOL": {
+      "name": "Pool Advista Indonesia Tbk",
+      "sector": "industri"
+    },
+    "PSDN": {
+      "name": "Prasidha Aneka Niaga Tbk",
+      "sector": "industri"
+    },
+    "PALM": {
+      "name": "Provident Agro Tbk",
+      "sector": "industri"
+    },
+    "PNSE": {
+      "name": "Pudjiadi & Sons Tbk",
+      "sector": "industri"
+    },
+    "RELI": {
+      "name": "Reliance Securities Tbk",
+      "sector": "industri"
+    },
+    "RICY": {
+      "name": "Ricky Putra Globalindo Tbk",
+      "sector": "industri"
+    },
+    "RIGS": {
+      "name": "Rig Tenders Tbk",
+      "sector": "industri"
+    },
+    "SMDR": {
+      "name": "Samudera Indonesia Tbk",
+      "sector": "industri"
+    },
+    "SKBM": {
+      "name": "Sekar Bumi Tbk",
+      "sector": "konsumer_primer"
+    },
+    "BATA": {
+      "name": "Sepatu Bata Tbk",
+      "sector": "industri"
+    },
+    "SMRU": {
+      "name": "Smr Utama Tbk",
+      "sector": "industri"
+    },
+    "SONA": {
+      "name": "Sona Topas Tourism Industry",
+      "sector": "industri"
+    },
+    "SCCO": {
+      "name": "Supreme Cable Manufacturing Corp",
+      "sector": "industri"
+    },
+    "SSTM": {
+      "name": "Sunson Textile Manufacturer",
+      "sector": "industri"
+    },
+    "TOTO": {
+      "name": "Surya Toto Indonesia Tbk",
+      "sector": "industri"
+    },
+    "SMDM": {
+      "name": "Suryamas Dutamakmur Tbk",
+      "sector": "industri"
+    },
+    "TFCO": {
+      "name": "Tifico Fiber Indonesia Tbk",
+      "sector": "industri"
+    },
+    "TGKA": {
+      "name": "Tigaraksa Satria Tbk",
+      "sector": "industri"
+    },
+    "TPMA": {
+      "name": "Trans Power Marine Tbk",
+      "sector": "energi_batubara"
+    },
+    "TRST": {
+      "name": "Trias Sentosa Tbk",
+      "sector": "industri"
+    },
+    "TRIO": {
+      "name": "Trikomsel Oke Tbk",
+      "sector": "industri"
+    },
+    "ABMM": {
+      "name": "Abm Investama Tbk",
+      "sector": "keuangan"
+    },
+    "ACES": {
+      "name": "Ace Hardware Indonesia Tbk",
+      "sector": "industri"
+    },
+    "ACST": {
+      "name": "Acset Indonusa Tbk",
+      "sector": "energi_batubara"
+    },
+    "ADRO": {
+      "name": "Adaro Energy Tbk",
+      "sector": "energi_batubara"
+    },
+    "ADHI": {
+      "name": "Adhi Karya Persero Tbk",
+      "sector": "konstruksi"
+    },
+    "ASSA": {
+      "name": "Adi Sarana Armada Tbk",
+      "sector": "industri"
+    },
+    "ADMF": {
+      "name": "Adira Dinamika Multi Finance",
+      "sector": "keuangan"
+    },
+    "TMPI": {
+      "name": "Sigmagold Inti Perkasa Tbk",
+      "sector": "tambang_logam"
+    },
+    "APLN": {
+      "name": "Agung Podomoro Land Tbk",
+      "sector": "properti"
+    },
+    "ADES": {
+      "name": "Akasha Wira International Tbk",
+      "sector": "industri"
+    },
+    "AIMS": {
+      "name": "Akbar Indomakmur Stimec Tbk",
+      "sector": "industri"
+    },
+    "AKRA": {
+      "name": "Akr Corporindo Tbk",
+      "sector": "industri"
+    },
+    "ASRI": {
+      "name": "Alam Sutera Realty Tbk",
+      "sector": "properti"
+    },
+    "ALDO": {
+      "name": "Alkindo Naratama Tbk",
+      "sector": "industri"
+    },
+    "ALMI": {
+      "name": "Alumindo Light Metal Industry",
+      "sector": "industri"
+    },
+    "OKAS": {
+      "name": "Ancora Indonesia Resources Tbk",
+      "sector": "industri"
+    },
+    "ANTM": {
+      "name": "Aneka Tambang Persero Tbk",
+      "sector": "tambang_logam"
+    },
+    "APEX": {
+      "name": "Apexindo Pratama Duta Tbk",
+      "sector": "industri"
+    },
+    "APII": {
+      "name": "Arita Prima Indonesia Tbk",
+      "sector": "konsumer_primer"
+    },
+    "ARTA": {
+      "name": "Arthavest Tbk",
+      "sector": "industri"
+    },
+    "ARNA": {
+      "name": "Arwana Citramulia Tbk",
+      "sector": "industri"
+    },
+    "ASDM": {
+      "name": "Asuransi Dayin Mitra Tbk",
+      "sector": "keuangan"
+    },
+    "AMAG": {
+      "name": "Asuransi Multi Artha Guna Tbk PT",
+      "sector": "keuangan"
+    },
+    "ASRM": {
+      "name": "Asuransi Ramayana Tbk",
+      "sector": "keuangan"
+    },
+    "AMFG": {
+      "name": "Asahimas Flat Glass Tbk",
+      "sector": "industri"
+    },
+    "POLY": {
+      "name": "Asia Pacific Fibers Tbk",
+      "sector": "infrastruktur_telko"
+    },
+    "APLI": {
+      "name": "Asiaplast Industries Tbk",
+      "sector": "industri"
+    },
+    "AALI": {
+      "name": "Astra Agro Lestari Tbk",
+      "sector": "industri"
+    },
+    "ASGR": {
+      "name": "Astra Graphia Tbk",
+      "sector": "industri"
+    },
+    "ASII": {
+      "name": "Astra International Tbk",
+      "sector": "industri"
+    },
+    "AUTO": {
+      "name": "Astra Otoparts Tbk",
+      "sector": "industri"
+    },
+    "ASMI": {
+      "name": "Asuransi Kresna Mitra Tbk PT",
+      "sector": "keuangan"
+    },
+    "ARII": {
+      "name": "Atlas Resources Tbk",
+      "sector": "industri"
+    },
+    "ATPK": {
+      "name": "Bara Jaya Internasional Tbk PT",
+      "sector": "energi_batubara"
+    },
+    "BNBR": {
+      "name": "Bakrie & Brothers Tbk",
+      "sector": "industri"
+    },
+    "UNSP": {
+      "name": "Bakrie Sumatera Plantations",
+      "sector": "pertanian"
+    },
+    "BTEL": {
+      "name": "Bakrie Telecom Tbk",
+      "sector": "industri"
+    },
+    "ELTY": {
+      "name": "Bakrieland Development Tbk",
+      "sector": "properti"
+    },
+    "INPC": {
+      "name": "Bank Artha Graha Internasional",
+      "sector": "keuangan"
+    },
+    "BBNI": {
+      "name": "Bank Negara Indonesia Tbk",
+      "sector": "keuangan"
+    },
+    "BBKP": {
+      "name": "Bank Bukopin Tbk",
+      "sector": "keuangan"
+    },
+    "BACA": {
+      "name": "Bank Capital Indonesia Tbk",
+      "sector": "keuangan"
+    },
+    "BDMN": {
+      "name": "Bank Danamon Indonesia Tbk",
+      "sector": "keuangan"
+    },
+    "SDRA": {
+      "name": "Bank Woori Saudara Indonesia 1906",
+      "sector": "keuangan"
+    },
+    "BABP": {
+      "name": "Bank Mnc Internasional Tbk",
+      "sector": "keuangan"
+    },
+    "BINA": {
+      "name": "Bank Ina Perdana Tbk",
+      "sector": "keuangan"
+    },
+    "BNII": {
+      "name": "Bank Maybank Indonesia Tbk PT",
+      "sector": "keuangan"
+    },
+    "BMRI": {
+      "name": "Bank Mandiri Persero Tbk",
+      "sector": "keuangan"
+    },
+    "MAYA": {
+      "name": "Bank Mayapada Internasional",
+      "sector": "keuangan"
+    },
+    "MEGA": {
+      "name": "Bank Mega Tbk",
+      "sector": "keuangan"
+    },
+    "BBMD": {
+      "name": "Bank Mestika Dharma Tbk",
+      "sector": "keuangan"
+    },
+    "NOBU": {
+      "name": "Bank Nationalnobu Tbk",
+      "sector": "keuangan"
+    },
+    "BJBR": {
+      "name": "Bank Pembangunan Barat Dan Banten",
+      "sector": "keuangan"
+    },
+    "PNBN": {
+      "name": "Bank Pan Indonesia Tbk",
+      "sector": "keuangan"
+    },
+    "PNBS": {
+      "name": "Bank Panin Syariah Tbk",
+      "sector": "keuangan"
+    },
+    "BJTM": {
+      "name": "Bank Pembangunan Timur Tbk",
+      "sector": "keuangan"
+    },
+    "BNLI": {
+      "name": "Bank Permata Tbk",
+      "sector": "keuangan"
+    },
+    "BEKS": {
+      "name": "Bank Pembangunan Daerah Banten Tbk PT",
+      "sector": "keuangan"
+    },
+    "BBRI": {
+      "name": "Bank Rakyat Indonesia Persero",
+      "sector": "keuangan"
+    },
+    "BSIM": {
+      "name": "Bank Sinarmas Tbk",
+      "sector": "keuangan"
+    },
+    "BBTN": {
+      "name": "Bank Tabungan Negara Persero",
+      "sector": "keuangan"
+    },
+    "BTPN": {
+      "name": "Bank Tabungan Pensiunan Nasional",
+      "sector": "keuangan"
+    },
+    "BVIC": {
+      "name": "Bank Victoria International",
+      "sector": "keuangan"
+    },
+    "MCOR": {
+      "name": "Bank Windu Kentjana Int",
+      "sector": "keuangan"
+    },
+    "BSSR": {
+      "name": "Baramulti Suksessarana Tbk",
+      "sector": "industri"
+    },
+    "BRPT": {
+      "name": "Barito Pacific Tbk",
+      "sector": "industri"
+    },
+    "BYAN": {
+      "name": "Bayan Resources Tbk",
+      "sector": "industri"
+    },
+    "BAPA": {
+      "name": "Bekasi Asri Pemula Tbk",
+      "sector": "industri"
+    },
+    "BEST": {
+      "name": "Bekasi Fajar Industrial Estate",
+      "sector": "industri"
+    },
+    "BIPI": {
+      "name": "Benakat Integra Tbk",
+      "sector": "industri"
+    },
+    "BRNA": {
+      "name": "Berlina Tbk",
+      "sector": "industri"
+    },
+    "BTON": {
+      "name": "Betonjaya Manunggal Tbk",
+      "sector": "industri"
+    },
+    "BFIN": {
+      "name": "BFI Finance Indonesia Tbk",
+      "sector": "keuangan"
+    },
+    "BIPP": {
+      "name": "Bhuwanatala Indah Permai Tbk",
+      "sector": "industri"
+    },
+    "BISI": {
+      "name": "Bisi International Tbk",
+      "sector": "industri"
+    },
+    "BBCA": {
+      "name": "Bank Central Asia Tbk",
+      "sector": "keuangan"
+    },
+    "BORN": {
+      "name": "Borneo Lumbung Energi & Metal",
+      "sector": "industri"
+    },
+    "AGRO": {
+      "name": "Bank Rakyat Indonesia Agroniaga",
+      "sector": "keuangan"
+    },
+    "BULL": {
+      "name": "Buana Listya Tama Tbk PT",
+      "sector": "industri"
+    },
+    "BUDI": {
+      "name": "Budi Starch & Sweetener Tbk",
+      "sector": "konsumer_primer"
+    },
+    "BKDP": {
+      "name": "Bukit Darmo Property Tbk",
+      "sector": "properti"
+    },
+    "BUVA": {
+      "name": "Bukit Uluwatu Villa Tbk",
+      "sector": "industri"
+    },
+    "BCIP": {
+      "name": "Bumi Citra Permai Tbk",
+      "sector": "industri"
+    },
+    "BRMS": {
+      "name": "Bumi Resources Minerals Tbk",
+      "sector": "energi_batubara"
+    },
+    "BUMI": {
+      "name": "Bumi Resources Tbk",
+      "sector": "energi_batubara"
+    },
+    "BSDE": {
+      "name": "Bumi Serpong Damai Tbk",
+      "sector": "industri"
+    },
+    "BTEK": {
+      "name": "Bumi Teknokultura Unggul Tbk",
+      "sector": "industri"
+    },
+    "BWPT": {
+      "name": "Eagle High Plantations Tbk",
+      "sector": "pertanian"
+    },
+    "MTFN": {
+      "name": "Capitalinc Investment Tbk",
+      "sector": "industri"
+    },
+    "CANI": {
+      "name": "Capitol Nusantara Indonesia",
+      "sector": "industri"
+    },
+    "CASS": {
+      "name": "Cardig Aero Services Tbk",
+      "sector": "industri"
+    },
+    "CSAP": {
+      "name": "Catur Sentosa Adiprana Tbk",
+      "sector": "industri"
+    },
+    "CPRO": {
+      "name": "Central Proteina Prima Tbk",
+      "sector": "konsumer_primer"
+    },
+    "CENT": {
+      "name": "Centratama Telekomunikasi Ind",
+      "sector": "teknologi_media"
+    },
+    "CMPP": {
+      "name": "Rimau Multi Putra Pratama",
+      "sector": "industri"
+    },
+    "IGAR": {
+      "name": "Champion Pacific Indonesia Tbk",
+      "sector": "industri"
+    },
+    "TPIA": {
+      "name": "Chandra Asri Petrochemical Tbk",
+      "sector": "industri"
+    },
+    "CPIN": {
+      "name": "Charoen Pokphand Indonesia TBK PT",
+      "sector": "konsumer_primer"
+    },
+    "CTRA": {
+      "name": "Ciputra Development Tbk",
+      "sector": "properti"
+    },
+    "CTTH": {
+      "name": "Citatah Tbk",
+      "sector": "industri"
+    },
+    "CMNP": {
+      "name": "Citra Marga Nusaphala Persada",
+      "sector": "transportasi"
+    },
+    "CFIN": {
+      "name": "Clipan Finance Indonesia Tbk",
+      "sector": "keuangan"
+    },
+    "CLPI": {
+      "name": "Colorpak Indonesia Tbk",
+      "sector": "industri"
+    },
+    "COWL": {
+      "name": "Cowell Development Tbk",
+      "sector": "properti"
+    },
+    "DEWA": {
+      "name": "Darma Henwa Tbk",
+      "sector": "industri"
+    },
+    "DVLA": {
+      "name": "Darya-Varia Laboratoria Tbk",
+      "sector": "industri"
+    },
+    "DOID": {
+      "name": "Delta Dunia Makmur Tbk",
+      "sector": "energi_batubara"
+    },
+    "DSFI": {
+      "name": "Dharma Samudera Fishing Tbk",
+      "sector": "transportasi"
+    },
+    "DSNG": {
+      "name": "Dharma Satya Nusantara Tbk",
+      "sector": "pertanian"
+    },
+    "DPNS": {
+      "name": "Duta Pertiwi Nusantara Tbk",
+      "sector": "industri"
+    },
+    "DART": {
+      "name": "Duta Anggada Realty Tbk",
+      "sector": "properti"
+    },
+    "DUTI": {
+      "name": "Duta Pertiwi Tbk",
+      "sector": "industri"
+    },
+    "DYAN": {
+      "name": "Dyandra Media International",
+      "sector": "teknologi_media"
+    },
+    "EKAD": {
+      "name": "Ekadharma International Tbk",
+      "sector": "industri"
+    },
+    "ECII": {
+      "name": "Electronic City Indonesia Tbk",
+      "sector": "industri"
+    },
+    "ELSA": {
+      "name": "Elnusa Tbk",
+      "sector": "energi_batubara"
+    },
+    "ENRG": {
+      "name": "Energi Mega Persada Tbk",
+      "sector": "industri"
+    },
+    "ERAA": {
+      "name": "Erajaya Swasembada Tbk",
+      "sector": "industri"
+    },
+    "ETWA": {
+      "name": "Eterindo Wahanatama Tbk",
+      "sector": "industri"
+    },
+    "LCGP": {
+      "name": "Eureka Prima Jakarta Tbk",
+      "sector": "konsumer_primer"
+    },
+    "GREN": {
+      "name": "Evergreen Invesco Tbk",
+      "sector": "industri"
+    },
+    "CNKO": {
+      "name": "Exploitasi Energi Indonesia",
+      "sector": "energi_batubara"
+    },
+    "TAXI": {
+      "name": "Express Transindo Utama Tbk",
+      "sector": "industri"
+    },
+    "FASW": {
+      "name": "Fajar Surya Wisesa Tbk",
+      "sector": "industri"
+    },
+    "KBLV": {
+      "name": "First Media Tbk",
+      "sector": "teknologi_media"
+    },
+    "FORU": {
+      "name": "Fortune Indonesia Tbk",
+      "sector": "industri"
+    },
+    "FMII": {
+      "name": "Fortune Mate Indonesia Tbk",
+      "sector": "industri"
+    },
+    "GAMA": {
+      "name": "Gading Development Tbk",
+      "sector": "properti"
+    },
+    "GJTL": {
+      "name": "Gajah Tunggal Tbk",
+      "sector": "industri"
+    },
+    "GTBO": {
+      "name": "Garda Tujuh Buana Tbk",
+      "sector": "industri"
+    },
+    "GIAA": {
+      "name": "Garuda Indonesia Persero Tbk",
+      "sector": "industri"
+    },
+    "GEMA": {
+      "name": "Gema Grahasarana Tbk",
+      "sector": "industri"
+    },
+    "BMTR": {
+      "name": "Global Mediacom Tbk",
+      "sector": "teknologi_media"
+    },
+    "GLOB": {
+      "name": "Global Teleshop Tbk",
+      "sector": "industri"
+    },
+    "SMMT": {
+      "name": "Golden Eagle Energy Tbk",
+      "sector": "energi_batubara"
+    },
+    "GOLD": {
+      "name": "Visi Telekomunikasi Infrastruktur Tbk PT",
+      "sector": "teknologi_media"
+    },
+    "GMTD": {
+      "name": "Gowa Makassar Tourism Develop",
+      "sector": "industri"
+    },
+    "GZCO": {
+      "name": "Gozco Plantations Tbk",
+      "sector": "pertanian"
+    },
+    "BLTZ": {
+      "name": "Graha Layar Prima Tbk",
+      "sector": "konsumer_primer"
+    },
+    "KRAH": {
+      "name": "Grand Kartech Tbk",
+      "sector": "industri"
+    },
+    "GWSA": {
+      "name": "Greenwood Sejahtera Tbk",
+      "sector": "industri"
+    },
+    "GGRM": {
+      "name": "Gudang Garam Tbk",
+      "sector": "konsumer_primer"
+    },
+    "GDST": {
+      "name": "Gunawan Dianjaya Steel Tbk",
+      "sector": "industri"
+    },
+    "MYRX": {
+      "name": "Hanson International Tbk",
+      "sector": "industri"
+    },
+    "MYRX_p": {
+      "name": "Hanson International Tbk Prf",
+      "sector": "industri"
+    },
+    "HRUM": {
+      "name": "Harum Energy Tbk",
+      "sector": "energi_batubara"
+    },
+    "HERO": {
+      "name": "Hero Supermarket Tbk",
+      "sector": "industri"
+    },
+    "HEXA": {
+      "name": "Hexindo Adiperkasa Tbk",
+      "sector": "industri"
+    },
+    "SMCB": {
+      "name": "Holcim Indonesia Tbk",
+      "sector": "industri"
+    },
+    "HOME": {
+      "name": "Hotel Mandarine Regency Tbk PT",
+      "sector": "industri"
+    },
+    "SHID": {
+      "name": "Hotel Sahid Jaya Tbk",
+      "sector": "industri"
+    },
+    "KARW": {
+      "name": "Ictsi Jasa Prima Tbk",
+      "sector": "konsumer_primer"
+    },
+    "IATA": {
+      "name": "Indonesia Transport & Infrastructure",
+      "sector": "industri"
+    },
+    "INKP": {
+      "name": "Indah Kiat Pulp & Paper Tbk",
+      "sector": "industri"
+    },
+    "INAI": {
+      "name": "Indal Aluminium Industry Tbk",
+      "sector": "industri"
+    },
+    "INDY": {
+      "name": "Indika Energy Tbk",
+      "sector": "energi_batubara"
+    },
+    "SRSN": {
+      "name": "Indo Acidatama Tbk",
+      "sector": "teknologi_media"
+    },
+    "ITMG": {
+      "name": "Indo Tambangraya Megah Tbk",
+      "sector": "energi_batubara"
+    },
+    "INTP": {
+      "name": "Indocement Tunggal Prakarsa",
+      "sector": "industri"
+    },
+    "INAF": {
+      "name": "Indofarma Tbk",
+      "sector": "kesehatan"
+    },
+    "ICBP": {
+      "name": "Indofood Cbp Sukses Makmur Tbk",
+      "sector": "konsumer_primer"
+    },
+    "INDF": {
+      "name": "Indofood Sukses Makmur Tbk",
+      "sector": "konsumer_primer"
+    },
+    "IMJS": {
+      "name": "Indomobil Multi Jasa Tbk",
+      "sector": "industri"
+    },
+    "IMAS": {
+      "name": "Indomobil Sukses Internasional",
+      "sector": "industri"
+    },
+    "IPOL": {
+      "name": "Indopoly Swakarsa Industry Tbk",
+      "sector": "industri"
+    },
+    "DNET": {
+      "name": "Indoritel Makmur Internasional",
+      "sector": "konsumer_ritel"
+    },
+    "ISAT": {
+      "name": "Indosat Tbk",
+      "sector": "teknologi_media"
+    },
+    "INDS": {
+      "name": "Indospring Tbk",
+      "sector": "industri"
+    },
+    "SIDO": {
+      "name": "Industri Jamu dan Farmasi Sido Muncul Tbk PT",
+      "sector": "konsumer_primer"
+    },
+    "INCI": {
+      "name": "Intanwijaya Internasional Tbk",
+      "sector": "industri"
+    },
+    "MDIA": {
+      "name": "Intermedia Capital Tbk",
+      "sector": "teknologi_media"
+    },
+    "IBST": {
+      "name": "Inti Bangun Sejahtera Tbk",
+      "sector": "industri"
+    },
+    "IKAI": {
+      "name": "Intikeramik Alamasri Industri",
+      "sector": "industri"
+    },
+    "DILD": {
+      "name": "Intiland Development Tbk",
+      "sector": "properti"
+    },
+    "INTA": {
+      "name": "Intraco Penta Tbk",
+      "sector": "industri"
+    },
+    "ICON": {
+      "name": "Island Concepts Indonesia Tbk",
+      "sector": "properti"
+    },
+    "PSAB": {
+      "name": "J Resources Asia Pasifik Tbk",
+      "sector": "industri"
+    },
+    "JAWA": {
+      "name": "Jaya Agra Wattie Tbk",
+      "sector": "industri"
+    },
+    "JPFA": {
+      "name": "Japfa Comfeed Indonesia Tbk",
+      "sector": "konsumer_primer"
+    },
+    "JSMR": {
+      "name": "Jasa Marga Tbk",
+      "sector": "transportasi"
+    },
+    "JTPE": {
+      "name": "Jasuindo Tiga Perkasa Tbk",
+      "sector": "industri"
+    },
+    "JKON": {
+      "name": "Jaya Konstruksi Manggala Pratama",
+      "sector": "konstruksi"
+    },
+    "JRPT": {
+      "name": "Jaya Real Property Tbk",
+      "sector": "properti"
+    },
+    "JECC": {
+      "name": "Jembo Cable Company Tbk",
+      "sector": "industri"
+    },
+    "JIHD": {
+      "name": "Jakarta Int Hotels & Dev",
+      "sector": "industri"
+    },
+    "KIJA": {
+      "name": "Kawasan Industri Jababeka Tbk",
+      "sector": "industri"
+    },
+    "KLBF": {
+      "name": "Kalbe Farma Tbk",
+      "sector": "kesehatan"
+    },
+    "KDSI": {
+      "name": "Kedawung Setia Industrial Tbk",
+      "sector": "industri"
+    },
+    "KIAS": {
+      "name": "Keramika Indonesia Assosiasi",
+      "sector": "kesehatan"
+    },
+    "KBRI": {
+      "name": "Kertas Basuki Rachmat Indonesia",
+      "sector": "industri"
+    },
+    "KAEF": {
+      "name": "Kimia Farma Persero Tbk",
+      "sector": "kesehatan"
+    },
+    "KBLI": {
+      "name": "Kmi Wire And Cable Tbk",
+      "sector": "industri"
+    },
+    "KOBX": {
+      "name": "Kobexindo Tractors Tbk",
+      "sector": "industri"
+    },
+    "KRAS": {
+      "name": "Krakatau Steel Persero Tbk",
+      "sector": "industri"
+    },
+    "KREN": {
+      "name": "Kresna Graha Investama Tbk PT",
+      "sector": "keuangan"
+    },
+    "LMPI": {
+      "name": "Langgeng Makmur Industri Tbk",
+      "sector": "industri"
+    },
+    "LTLS": {
+      "name": "Lautan Luas Tbk",
+      "sector": "industri"
+    },
+    "LAPD": {
+      "name": "Leyand International Tbk",
+      "sector": "industri"
+    },
+    "LPCK": {
+      "name": "Lippo Cikarang Tbk",
+      "sector": "properti"
+    },
+    "LPGI": {
+      "name": "Lippo General Insurance Tbk",
+      "sector": "keuangan"
+    },
+    "LPKR": {
+      "name": "Lippo Karawaci Tbk",
+      "sector": "properti"
+    },
+    "LPPS": {
+      "name": "Lippo Securities Tbk",
+      "sector": "properti"
+    },
+    "LEAD": {
+      "name": "Logindo Samudramakmur Tbk",
+      "sector": "industri"
+    },
+    "LSIP": {
+      "name": "PP London Sumatra Indonesia",
+      "sector": "industri"
+    },
+    "ABBA": {
+      "name": "Mahaka Media Tbk",
+      "sector": "teknologi_media"
+    },
+    "MAIN": {
+      "name": "Malindo Feedmill Tbk",
+      "sector": "industri"
+    },
+    "TCID": {
+      "name": "Mandom Indonesia Tbk",
+      "sector": "industri"
+    },
+    "MBTO": {
+      "name": "Martina Berto Tbk",
+      "sector": "tambang_logam"
+    },
+    "LPPF": {
+      "name": "Matahari Department Store Tbk",
+      "sector": "konsumer_ritel"
+    },
+    "MPPA": {
+      "name": "Matahari Putra Prima Tbk",
+      "sector": "konsumer_primer"
+    },
+    "MYOR": {
+      "name": "Mayora Indah Tbk",
+      "sector": "konsumer_primer"
+    },
+    "MEDC": {
+      "name": "Medco Energi Internasional Tbk",
+      "sector": "energi_batubara"
+    },
+    "MNCN": {
+      "name": "Media Nusantara Citra Tbk",
+      "sector": "teknologi_media"
+    },
+    "EMDE": {
+      "name": "Megapolitan Developments Tbk",
+      "sector": "properti"
+    },
+    "MTDL": {
+      "name": "Metrodata Electronics Tbk",
+      "sector": "teknologi_media"
+    },
+    "MTLA": {
+      "name": "Metropolitan Land Tbk",
+      "sector": "properti"
+    },
+    "MIDI": {
+      "name": "Midi Utama Indonesia Tbk",
+      "sector": "industri"
+    },
+    "SDPC": {
+      "name": "Millennium Pharmacon International",
+      "sector": "kesehatan"
+    },
+    "PADI": {
+      "name": "Minna Padi Investama Tbk",
+      "sector": "keuangan"
+    },
+    "MAPI": {
+      "name": "Mitra Adiperkasa Tbk",
+      "sector": "industri"
+    },
+    "MIRA": {
+      "name": "Mitra International Resources",
+      "sector": "industri"
+    },
+    "MITI": {
+      "name": "Mitra Investindo Tbk",
+      "sector": "tambang_logam"
+    },
+    "MPMX": {
+      "name": "Mitra Pinasthika Mustika",
+      "sector": "industri"
+    },
+    "MBSS": {
+      "name": "Mitrabahtera Segara Sejati Tbk",
+      "sector": "industri"
+    },
+    "BHIT": {
+      "name": "Mnc Investama Tbk",
+      "sector": "keuangan"
+    },
+    "BCAP": {
+      "name": "Mnc Kapital Indonesia Tbk",
+      "sector": "keuangan"
+    },
+    "KPIG": {
+      "name": "Mnc Land Tbk",
+      "sector": "properti"
+    },
+    "MSKY": {
+      "name": "Mnc Sky Vision Tbk",
+      "sector": "industri"
+    },
+    "MDRN": {
+      "name": "Modern Internasional Tbk",
+      "sector": "industri"
+    },
+    "MDLN": {
+      "name": "Modernland Realty Ltd Tbk",
+      "sector": "properti"
+    },
+    "MLIA": {
+      "name": "Mulia Industrindo Tbk",
+      "sector": "industri"
+    },
+    "MAGP": {
+      "name": "Multi Agro Gemilang Plantation Tbk PT",
+      "sector": "pertanian"
+    },
+    "MLBI": {
+      "name": "Multi Bintang Indonesia Tbk",
+      "sector": "konsumer_primer"
+    },
+    "MICE": {
+      "name": "Multi Indocitra Tbk",
+      "sector": "industri"
+    },
+    "LPIN": {
+      "name": "Multi Prima Sejahtera Tbk",
+      "sector": "konsumer_primer"
+    },
+    "MLPL": {
+      "name": "Multipolar Tbk",
+      "sector": "industri"
+    },
+    "MLPT": {
+      "name": "Multipolar Technology Tbk",
+      "sector": "teknologi_media"
+    },
+    "MASA": {
+      "name": "Multistrada Arah Sarana Tbk",
+      "sector": "industri"
+    },
+    "MRAT": {
+      "name": "Mustika Ratu Tbk",
+      "sector": "industri"
+    },
+    "ROTI": {
+      "name": "Nippon Indosari Corpindo Tbk",
+      "sector": "industri"
+    },
+    "NIPS": {
+      "name": "Nipress Tbk",
+      "sector": "industri"
+    },
+    "NIRO": {
+      "name": "Nirvana Development Tbk",
+      "sector": "properti"
+    },
+    "DGIK": {
+      "name": "Nusa Konstruksi Enjiniring Tbk",
+      "sector": "konstruksi"
+    },
+    "NRCA": {
+      "name": "Nusa Raya Cipta Tbk",
+      "sector": "industri"
+    },
+    "META": {
+      "name": "Nusantara Infrastructure Tbk",
+      "sector": "industri"
+    },
+    "PGAS": {
+      "name": "Perusahaan Gas Negara Persero",
+      "sector": "industri"
+    },
+    "PJAA": {
+      "name": "Pembangunan Jaya Ancol Tbk",
+      "sector": "industri"
+    },
+    "APIC": {
+      "name": "Pacific Strategic Financial",
+      "sector": "keuangan"
+    },
+    "PWON": {
+      "name": "Pakuwon Jati Tbk",
+      "sector": "properti"
+    },
+    "PBRX": {
+      "name": "Pan Brothers Tbk",
+      "sector": "industri"
+    },
+    "PNLF": {
+      "name": "Panin Financial Tbk",
+      "sector": "keuangan"
+    },
+    "PNIN": {
+      "name": "Paninvest Tbk",
+      "sector": "keuangan"
+    },
+    "PANS": {
+      "name": "Panin Sekuritas Tbk",
+      "sector": "keuangan"
+    },
+    "PANR": {
+      "name": "Panorama Sentrawisata Tbk",
+      "sector": "industri"
+    },
+    "WEHA": {
+      "name": "Weha Transportasi Indonesia TBK",
+      "sector": "industri"
+    },
+    "PICO": {
+      "name": "Pelangi Indah Canindo Tbk",
+      "sector": "industri"
+    },
+    "NIKL": {
+      "name": "Pelat Timah Nusantara Tbk",
+      "sector": "tambang_logam"
+    },
+    "BBRM": {
+      "name": "Pelayaran Nasional Bina Buana Raya",
+      "sector": "transportasi"
+    },
+    "GPRA": {
+      "name": "Perdana Gapura Prima Tbk",
+      "sector": "konsumer_primer"
+    },
+    "PKPK": {
+      "name": "Perdana Karya Perkasa Tbk",
+      "sector": "industri"
+    },
+    "PTRO": {
+      "name": "Petrosea Tbk",
+      "sector": "industri"
+    },
+    "PLAS": {
+      "name": "Polaris Investama Tbk",
+      "sector": "keuangan"
+    },
+    "ADMG": {
+      "name": "Polychem Indonesia Tbk",
+      "sector": "industri"
+    },
+    "PTPP": {
+      "name": "Pp Persero Tbk",
+      "sector": "industri"
+    },
+    "PRAS": {
+      "name": "Prima Alloy Steel Universal",
+      "sector": "konsumer_primer"
+    },
+    "PUDP": {
+      "name": "Pudjiadi Prestige Tbk",
+      "sector": "industri"
+    },
+    "PYFA": {
+      "name": "Pyridam Farma Tbk",
+      "sector": "industri"
+    },
+    "RUIS": {
+      "name": "Radiant Utama Interinsco Tbk",
+      "sector": "industri"
+    },
+    "RALS": {
+      "name": "Ramayana Lestari Sentosa Tbk",
+      "sector": "konsumer_ritel"
+    },
+    "ARTI": {
+      "name": "Ratu Prabu Energi Tbk",
+      "sector": "energi_batubara"
+    },
+    "SQMI": {
+      "name": "Renuka Coalindo Tbk",
+      "sector": "energi_batubara"
+    },
+    "KKGI": {
+      "name": "Resource Alam Indonesia Tbk",
+      "sector": "industri"
+    },
+    "RIMO": {
+      "name": "Rimo International Lestari Tbk PT",
+      "sector": "industri"
+    },
+    "RBMS": {
+      "name": "Ristia Bintang Mahkotasejati",
+      "sector": "industri"
+    },
+    "RAJA": {
+      "name": "Rukun Raharja Tbk",
+      "sector": "energi_batubara"
+    },
+    "SIMP": {
+      "name": "Salim Ivomas Pratama Tbk",
+      "sector": "pertanian"
+    },
+    "MYOH": {
+      "name": "Samindo Resources Tbk",
+      "sector": "industri"
+    },
+    "SGRO": {
+      "name": "Sampoerna Agro Tbk",
+      "sector": "pertanian"
+    },
+    "SAME": {
+      "name": "Sarana Meditama Metropolitan",
+      "sector": "industri"
+    },
+    "TOWR": {
+      "name": "Sarana Menara Nusantara Tbk",
+      "sector": "infrastruktur_telko"
+    },
+    "BAJA": {
+      "name": "Saranacentral Bajatama Tbk",
+      "sector": "industri"
+    },
+    "HOTL": {
+      "name": "Saraswati Griya Lestari Tbk",
+      "sector": "industri"
+    },
+    "SRTG": {
+      "name": "Saratoga Investama Sedaya",
+      "sector": "keuangan"
+    },
+    "PTSN": {
+      "name": "Sat Nusapersada Tbk",
+      "sector": "industri"
+    },
+    "SSMS": {
+      "name": "Sawit Sumbermas Sarana Tbk",
+      "sector": "pertanian"
+    },
+    "SRAJ": {
+      "name": "Sejahteraraya Anugrahjaya Tbk",
+      "sector": "kesehatan"
+    },
+    "SMSM": {
+      "name": "Selamat Sempurna Tbk",
+      "sector": "industri"
+    },
+    "SMBR": {
+      "name": "Semen Baturaja Persero Tbk",
+      "sector": "industri"
+    },
+    "SMGR": {
+      "name": "Semen Indonesia Persero Tbk",
+      "sector": "industri"
+    },
+    "BKSL": {
+      "name": "Sentul City Tbk",
+      "sector": "properti"
+    },
+    "STTP": {
+      "name": "Siantar Top Tbk",
+      "sector": "industri"
+    },
+    "SDMU": {
+      "name": "Sidomulyo Selaras Tbk",
+      "sector": "industri"
+    },
+    "SIPD": {
+      "name": "Sierad Produce Tbk",
+      "sector": "industri"
+    },
+    "SILO": {
+      "name": "Siloam International Hospitals",
+      "sector": "kesehatan"
+    },
+    "SMMA": {
+      "name": "Sinar Mas Multiartha Tbk",
+      "sector": "industri"
+    },
+    "SULI": {
+      "name": "Slj Global Tbk",
+      "sector": "industri"
+    },
+    "SMAR": {
+      "name": "Smart Tbk",
+      "sector": "pertanian"
+    },
+    "FREN": {
+      "name": "Smartfren Telecom Tbk",
+      "sector": "teknologi_media"
+    },
+    "SUPR": {
+      "name": "Solusi Tunas Pratama Tbk",
+      "sector": "infrastruktur_telko"
+    },
+    "SRIL": {
+      "name": "Sri Rejeki Isman Tbk",
+      "sector": "industri"
+    },
+    "LPLI": {
+      "name": "Star Pacific Tbk",
+      "sector": "industri"
+    },
+    "STAR": {
+      "name": "Star Petrcohem Tbk",
+      "sector": "industri"
+    },
+    "ISSP": {
+      "name": "Steel Pipe Industry Of Indonesia",
+      "sector": "industri"
+    },
+    "SUGI": {
+      "name": "Sugih Energy Tbk",
+      "sector": "energi_batubara"
+    },
+    "AMRT": {
+      "name": "Sumber Alfaria Trijaya Tbk",
+      "sector": "konsumer_ritel"
+    },
+    "SMRA": {
+      "name": "Summarecon Agung Tbk",
+      "sector": "properti"
+    },
+    "SPMA": {
+      "name": "Suparma Tbk",
+      "sector": "industri"
+    },
+    "RANC": {
+      "name": "Supra Boga Lestari Tbk",
+      "sector": "industri"
+    },
+    "SCMA": {
+      "name": "Surya Citra Media Tbk",
+      "sector": "teknologi_media"
+    },
+    "ESSA": {
+      "name": "Surya Esa Perkasa Tbk",
+      "sector": "industri"
+    },
+    "SSIA": {
+      "name": "Surya Semesta Internusa Tbk",
+      "sector": "industri"
+    },
+    "INDX": {
+      "name": "Tanah Laut Tbk",
+      "sector": "industri"
+    },
+    "PTBA": {
+      "name": "Tambang Batubara Bukit Asam",
+      "sector": "energi_batubara"
+    },
+    "TLKM": {
+      "name": "Telekomunikasi Indonesia Persero",
+      "sector": "teknologi_media"
+    },
+    "TMPO": {
+      "name": "Tempo Inti Media Tbk",
+      "sector": "teknologi_media"
+    },
+    "TSPC": {
+      "name": "Tempo Scan Pacific Tbk",
+      "sector": "konsumer_primer"
+    },
+    "TIFA": {
+      "name": "Tifa Finance Tbk",
+      "sector": "keuangan"
+    },
+    "TINS": {
+      "name": "Timah Persero Tbk",
+      "sector": "tambang_logam"
+    },
+    "TELE": {
+      "name": "Tiphone Mobile Indonesia Tbk",
+      "sector": "industri"
+    },
+    "TIRT": {
+      "name": "Tirta Mahakam Resources Tbk",
+      "sector": "industri"
+    },
+    "TKIM": {
+      "name": "Pabrik Kertas Tjiwi Kimia Tbk",
+      "sector": "industri"
+    },
+    "TOBA": {
+      "name": "Toba Bara Sejahtra Tbk",
+      "sector": "energi_batubara"
+    },
+    "INRU": {
+      "name": "Toba Pulp Lestari Tbk",
+      "sector": "industri"
+    },
+    "TOTL": {
+      "name": "Total Bangun Persada Tbk",
+      "sector": "konstruksi"
+    },
+    "TBIG": {
+      "name": "Tower Bersama Infrastructure Tbk PT",
+      "sector": "infrastruktur_telko"
+    },
+    "TRAM": {
+      "name": "Trada Maritime Tbk",
+      "sector": "industri"
+    },
+    "ALTO": {
+      "name": "Tri Banyan Tirta Tbk",
+      "sector": "industri"
+    },
+    "TRIM": {
+      "name": "Trimegah Securities Tbk",
+      "sector": "industri"
+    },
+    "TRIS": {
+      "name": "Trisula International Tbk",
+      "sector": "industri"
+    },
+    "TRIL": {
+      "name": "Triwira Insanlestari Tbk",
+      "sector": "industri"
+    },
+    "TALF": {
+      "name": "Tunas Alfin Tbk",
+      "sector": "industri"
+    },
+    "TBLA": {
+      "name": "Tunas Baru Lampung Tbk",
+      "sector": "pertanian"
+    },
+    "TURI": {
+      "name": "Tunas Ridean Tbk",
+      "sector": "industri"
+    },
+    "ULTJ": {
+      "name": "Ultra Jaya Milk Industry Tbk",
+      "sector": "industri"
+    },
+    "UNVR": {
+      "name": "Unilever Indonesia Tbk",
+      "sector": "konsumer_primer"
+    },
+    "UNTR": {
+      "name": "United Tractors Tbk",
+      "sector": "industri"
+    },
+    "INCO": {
+      "name": "Vale Indonesia Tbk",
+      "sector": "tambang_logam"
+    },
+    "VRNA": {
+      "name": "Verena Multi Finance Tbk",
+      "sector": "keuangan"
+    },
+    "VICO": {
+      "name": "Victoria Investama Tbk",
+      "sector": "keuangan"
+    },
+    "VIVA": {
+      "name": "Visi Media Asia Tbk",
+      "sector": "teknologi_media"
+    },
+    "VOKS": {
+      "name": "Voksel Electric Tbk",
+      "sector": "industri"
+    },
+    "WOMF": {
+      "name": "Wahana Ottomitra Multiartha",
+      "sector": "keuangan"
+    },
+    "WAPO": {
+      "name": "Wahana Pronatural",
+      "sector": "industri"
+    },
+    "WSKT": {
+      "name": "Waskita Karya Persero Tbk",
+      "sector": "konstruksi"
+    },
+    "WICO": {
+      "name": "Wicaksana Overseas International",
+      "sector": "industri"
+    },
+    "WIKA": {
+      "name": "Wijaya Karya Tbk",
+      "sector": "konstruksi"
+    },
+    "WTON": {
+      "name": "Wijaya Karya Beton",
+      "sector": "konstruksi"
+    },
+    "CEKA": {
+      "name": "Wilmar Cahaya Indonesia Tbk",
+      "sector": "industri"
+    },
+    "WINS": {
+      "name": "Wintermar Offshore Marine Tbk",
+      "sector": "industri"
+    },
+    "WIIM": {
+      "name": "Wismilak Inti Makmur Tbk",
+      "sector": "industri"
+    },
+    "EXCL": {
+      "name": "Xl Axiata Tbk",
+      "sector": "teknologi_media"
+    },
+    "YPAS": {
+      "name": "Yanaprima Hastapersada Tbk",
+      "sector": "konsumer_primer"
+    },
+    "ZBRA": {
+      "name": "Zebra Nusantara Tbk",
+      "sector": "industri"
+    },
+    "APOL": {
+      "name": "Arpeni Pratama Ocean Line Tbk",
+      "sector": "industri"
+    },
+    "BALI": {
+      "name": "Bali Towerindo Sentra Tbk",
+      "sector": "infrastruktur_telko"
+    },
+    "LRNA": {
+      "name": "Eka Sari Lorena Transport Tbk",
+      "sector": "transportasi"
+    },
+    "CNTX_p": {
+      "name": "Centex Tbk Prf",
+      "sector": "industri"
+    },
+    "INPP": {
+      "name": "Indonesian Paradise Property",
+      "sector": "properti"
+    },
+    "UNIT": {
+      "name": "Nusantara Inti Corpora Tbk",
+      "sector": "industri"
+    },
+    "UNIC": {
+      "name": "Unggul Indah Cahaya Tbk",
+      "sector": "industri"
+    },
+    "ABDA": {
+      "name": "Asuransi Bina Dana Arta Tbk",
+      "sector": "keuangan"
+    },
+    "BPFI": {
+      "name": "Batavia Prosperindo Finance",
+      "sector": "keuangan"
+    },
+    "LION": {
+      "name": "Lion Metal Works Tbk",
+      "sector": "industri"
+    },
+    "IKBI": {
+      "name": "Sumi Indo Kabel Tbk",
+      "sector": "industri"
+    },
+    "DSSA": {
+      "name": "Dian Swastatika Sentosa Tbk",
+      "sector": "industri"
+    },
+    "ASBI": {
+      "name": "Asuransi Bintang Tbk",
+      "sector": "keuangan"
+    },
+    "CINT": {
+      "name": "Chitose Internasional Tbk",
+      "sector": "industri"
+    },
+    "LINK": {
+      "name": "Link Net Tbk",
+      "sector": "infrastruktur_telko"
+    },
+    "SOCI": {
+      "name": "Soechi Lines Tbk",
+      "sector": "industri"
+    },
+    "IBFN": {
+      "name": "Intan Baruprana Finance Tbk",
+      "sector": "keuangan"
+    },
+    "AGRS": {
+      "name": "Bank Agris Tbk",
+      "sector": "keuangan"
+    },
+    "GOLL": {
+      "name": "Golden Plantation Tbk",
+      "sector": "tambang_logam"
+    },
+    "TBMS": {
+      "name": "Tembaga Mulia Semanan Tbk",
+      "sector": "industri"
+    },
+    "HMSP": {
+      "name": "Hm Sampoerna Tbk",
+      "sector": "konsumer_primer"
+    },
+    "MAMI": {
+      "name": "Mas Murni Indonesia Tbk",
+      "sector": "industri"
+    },
+    "GDYR": {
+      "name": "Goodyear Indonesia Tbk",
+      "sector": "industri"
+    },
+    "ASJT": {
+      "name": "Asuransi Jasa Tania Tbk",
+      "sector": "keuangan"
+    },
+    "BNGA": {
+      "name": "Bank Cimb Niaga Tbk",
+      "sector": "keuangan"
+    },
+    "YULE": {
+      "name": "Yulie Sekurindo Tbk",
+      "sector": "industri"
+    },
+    "PEGE": {
+      "name": "Panca Global Securities Tbk",
+      "sector": "industri"
+    },
+    "HADE": {
+      "name": "Hd Capital Tbk",
+      "sector": "industri"
+    },
+    "HITS": {
+      "name": "Humpuss Intermoda Transportasi",
+      "sector": "transportasi"
+    },
+    "SIAP": {
+      "name": "Sekawan Intipratama Tbk",
+      "sector": "industri"
+    },
+    "BPII": {
+      "name": "Batavia Prosperindo Int",
+      "sector": "industri"
+    },
+    "MGNA": {
+      "name": "Magna Finance Tbk",
+      "sector": "keuangan"
+    },
+    "TARA": {
+      "name": "Sitara Propertindo Tbk",
+      "sector": "tambang_logam"
+    },
+    "DNAR": {
+      "name": "Bank Dinar Indonesia Tbk",
+      "sector": "keuangan"
+    },
+    "MBAP": {
+      "name": "Mitrabara Adiperdana Tbk",
+      "sector": "energi_batubara"
+    },
+    "BIRD": {
+      "name": "Blue Bird Tbk",
+      "sector": "transportasi"
+    },
+    "IMPC": {
+      "name": "Impack Pratama Industri Tbk",
+      "sector": "industri"
+    },
+    "OMRE": {
+      "name": "Indonesia Prima Property Tbk",
+      "sector": "konsumer_primer"
+    },
+    "SIMA": {
+      "name": "Siwani Makmur Tbk",
+      "sector": "industri"
+    },
+    "BBYB": {
+      "name": "Bank Yudha Bhakti Tbk",
+      "sector": "keuangan"
+    },
+    "RDTX": {
+      "name": "Roda Vivatex Tbk",
+      "sector": "industri"
+    },
+    "MERK": {
+      "name": "Merck Tbk",
+      "sector": "industri"
+    },
+    "JSPT": {
+      "name": "Jakarta Setiabudi Internasional",
+      "sector": "industri"
+    },
+    "CTBN": {
+      "name": "Citra Tubindo Tbk",
+      "sector": "industri"
+    },
+    "SKLT": {
+      "name": "Sekar Laut Tbk",
+      "sector": "konsumer_primer"
+    },
+    "DEFI": {
+      "name": "Danasupra Erapacific Tbk",
+      "sector": "industri"
+    },
+    "IIKP": {
+      "name": "Inti Kapuas Arowana Tbk",
+      "sector": "industri"
+    },
+    "SQBI_p": {
+      "name": "Taisho Pharmaceutical Ind",
+      "sector": "kesehatan"
+    },
+    "TRUS": {
+      "name": "Trust Finance Indonesia Tbk",
+      "sector": "keuangan"
+    },
+    "BMSR": {
+      "name": "Bintang Mitra Semestaraya Tbk",
+      "sector": "industri"
+    },
+    "TIRA": {
+      "name": "Tira Austenite Tbk",
+      "sector": "industri"
+    },
+    "INTD": {
+      "name": "Inter-Delta Tbk",
+      "sector": "industri"
+    },
+    "MIKA": {
+      "name": "Mitra Keluarga Karyasehat Tbk PT",
+      "sector": "industri"
+    },
+    "PSKT": {
+      "name": "Red Planet Indonesia Tbk",
+      "sector": "industri"
+    },
+    "KOPI": {
+      "name": "Mitra Energi Persada Tbk PT",
+      "sector": "industri"
+    },
+    "ALKA": {
+      "name": "Alakasa Industrindo Tbk",
+      "sector": "industri"
+    },
+    "PPRO": {
+      "name": "PP Properti Tbk PT",
+      "sector": "properti"
+    },
+    "ARGO": {
+      "name": "Argo Pantes Tbk",
+      "sector": "industri"
+    },
+    "DMAS": {
+      "name": "Puradelta Lestari Tbk Pt",
+      "sector": "industri"
+    },
+    "HDFA": {
+      "name": "Radana Bhaskara Finance Tbk",
+      "sector": "keuangan"
+    },
+    "MDKA": {
+      "name": "Merdeka Copper Gold TBK PT",
+      "sector": "tambang_logam"
+    },
+    "MMLP": {
+      "name": "Mega Manunggal Property TBK PT",
+      "sector": "properti"
+    },
+    "SAFE": {
+      "name": "Steady Safe TBK PT",
+      "sector": "industri"
+    },
+    "BUKK": {
+      "name": "Bukaka Teknik Utama Tbk Pt",
+      "sector": "industri"
+    },
+    "ATIC": {
+      "name": "Anabatic Technologies Tbk PT",
+      "sector": "industri"
+    },
+    "BIKA": {
+      "name": "Binakarya Jaya Abadi Tbk PT",
+      "sector": "industri"
+    },
+    "BOLT": {
+      "name": "Garuda Metalindo Tbk PT",
+      "sector": "industri"
+    },
+    "BBHI": {
+      "name": "Bank Harda Internasional Tbk PT",
+      "sector": "keuangan"
+    },
+    "VINS": {
+      "name": "Victoria Insurance Tbk PT",
+      "sector": "keuangan"
+    },
+    "MKNT": {
+      "name": "Mitra Komunikasi Nusantara Tbk PT",
+      "sector": "industri"
+    },
+    "AMIN": {
+      "name": "Ateliers Mecaniques D’Indonesie Tbk PT",
+      "sector": "industri"
+    },
+    "BIMA": {
+      "name": "Primarindo Asia Infrastructure Tbk PT",
+      "sector": "konsumer_primer"
+    },
+    "DPUM": {
+      "name": "Dua Putra Utama Makmur PT",
+      "sector": "industri"
+    },
+    "IDPR": {
+      "name": "Indonesia Pondasi Raya Tbk PT",
+      "sector": "industri"
+    },
+    "KINO": {
+      "name": "Kino Indonesia Tbk PT",
+      "sector": "industri"
+    },
+    "ARTO": {
+      "name": "Bank Artos Indonesia Tbk PT",
+      "sector": "keuangan"
+    },
+    "MARI": {
+      "name": "Mahaka Radio Integra Tbk PT",
+      "sector": "industri"
+    },
+    "MTRA": {
+      "name": "Mitra Pemuda Tbk PT",
+      "sector": "industri"
+    },
+    "BGTG": {
+      "name": "Bank Ganesha Tbk PT",
+      "sector": "keuangan"
+    },
+    "POWR": {
+      "name": "Cikarang Listrindo Tbk PT",
+      "sector": "industri"
+    },
+    "DAYA": {
+      "name": "Duta Intidaya Tbk PT",
+      "sector": "industri"
+    },
+    "SHIP": {
+      "name": "Sillo Maritime Perdana Tbk PT",
+      "sector": "transportasi"
+    },
+    "JGLE": {
+      "name": "Graha Andrasentra Propertindo Tbk PT",
+      "sector": "tambang_logam"
+    },
+    "CASA": {
+      "name": "Capital Financial Indonesia Tbk PT",
+      "sector": "keuangan"
+    },
+    "OASA": {
+      "name": "Protech Mitra Perkasa Tbk PT",
+      "sector": "industri"
+    },
+    "INCF": {
+      "name": "Indo Komoditi Korpora Tbk PT",
+      "sector": "industri"
+    },
+    "WSBP": {
+      "name": "Waskita Beton Precast Tbk PT",
+      "sector": "konstruksi"
+    },
+    "AGII": {
+      "name": "Aneka Gas Industri Tbk PT",
+      "sector": "industri"
+    },
+    "PBSA": {
+      "name": "Paramita Bangun Sarana Tbk PT",
+      "sector": "industri"
+    },
+    "PRDA": {
+      "name": "Prodia Widyahusada Tbk PT",
+      "sector": "kesehatan"
+    },
+    "BOGA": {
+      "name": "Bintang Oto Global Tbk PT",
+      "sector": "industri"
+    },
+    "PORT": {
+      "name": "Nusantara Pelabuhan Handal Tbk PT",
+      "sector": "industri"
+    },
+    "AKKU": {
+      "name": "Anugerah Kagum Karya Utama Tbk PT",
+      "sector": "industri"
+    },
+    "DKFT": {
+      "name": "Central Omega Resources Tbk PT",
+      "sector": "industri"
+    },
+    "ITMA": {
+      "name": "Sumber Energi Andalan Tbk PT",
+      "sector": "industri"
+    },
+    "KONI": {
+      "name": "Perdana Bangun Pusaka Tbk PT",
+      "sector": "industri"
+    },
+    "CARS": {
+      "name": "Industri Dan Perdagangan Bintraco Dharma Tbk PT",
+      "sector": "industri"
+    },
+    "FORZ": {
+      "name": "Forza Land Indonesia Tbk PT",
+      "sector": "properti"
+    },
+    "MINA": {
+      "name": "Sanurhasta Mitra PT",
+      "sector": "industri"
+    },
+    "CLEO": {
+      "name": "Sariguna Primatirta PT",
+      "sector": "konsumer_primer"
+    },
+    "CSIS": {
+      "name": "PT Cahayasakti Investindo Sukses Tbk",
+      "sector": "tambang_logam"
+    },
+    "TAMU": {
+      "name": "PT Pelayaran Tamarin Samudra Tbk",
+      "sector": "transportasi"
+    },
+    "TGRA": {
+      "name": "Terregra Asia Energy PT",
+      "sector": "energi_batubara"
+    },
+    "MPOW": {
+      "name": "Megapower Makmur TBK PT",
+      "sector": "energi_batubara"
+    },
+    "ARMY": {
+      "name": "Armidian Karyatama Tbk PT",
+      "sector": "konsumer_ritel"
+    },
+    "FINN": {
+      "name": "PT First Indo American Leasing Tbk",
+      "sector": "keuangan"
+    },
+    "TOPS": {
+      "name": "Totalindo Eka Persada Tbk PT",
+      "sector": "industri"
+    },
+    "HOKI": {
+      "name": "Buyung Poetra Sembada Tbk PT",
+      "sector": "industri"
+    },
+    "KMTR": {
+      "name": "Kirana Megatara Tbk PT",
+      "sector": "industri"
+    },
+    "HRTA": {
+      "name": "Hartadinata Abadi Tbk PT",
+      "sector": "industri"
+    },
+    "WOOD": {
+      "name": "Integra Indocabinet Tbk PT",
+      "sector": "industri"
+    },
+    "FIRE": {
+      "name": "Alfa Energi Investama Tbk PT",
+      "sector": "keuangan"
+    },
+    "MAPB": {
+      "name": "Map Boga Adiperkasa Tbk PT",
+      "sector": "konsumer_ritel"
+    },
+    "MABA": {
+      "name": "Marga Abhinaya Abadi Tbk PT",
+      "sector": "transportasi"
+    },
+    "MARK": {
+      "name": "Mark Dynamics Indonesia Tbk PT",
+      "sector": "industri"
+    },
+    "NASA": {
+      "name": "Ayana Land International Tbk PT",
+      "sector": "properti"
+    },
+    "MDKI": {
+      "name": "Emdeki Utama Tbk PT",
+      "sector": "industri"
+    },
+    "BELL": {
+      "name": "Trisula Textile Industries Tbk PT",
+      "sector": "industri"
+    },
+    "KIOS": {
+      "name": "Kioson Komersial Indonesia Tbk PT",
+      "sector": "industri"
+    },
+    "GMFI": {
+      "name": "Garuda Maintenance Facility AeroAsia Tbk PT",
+      "sector": "industri"
+    },
+    "MTWI": {
+      "name": "Malacca Trust Wuwungan Insurance PT",
+      "sector": "keuangan"
+    },
+    "ZINC": {
+      "name": "Kapuas Prima Coal Tbk PT",
+      "sector": "energi_batubara"
+    },
+    "AKSI": {
+      "name": "Majapahit Inti Corpora Tbk PT",
+      "sector": "industri"
+    },
+    "PPRE": {
+      "name": "Pembangunan Perumahan Presisi PT",
+      "sector": "properti"
+    },
+    "WEGE": {
+      "name": "Wijaya Karya Bangunan Gedung Tbk PT",
+      "sector": "konstruksi"
+    },
+    "MCAS": {
+      "name": "M Cash Integrasi Tbk PT",
+      "sector": "industri"
+    },
+    "PSSI": {
+      "name": "Pelita Samudera Shipping Tbk PT",
+      "sector": "transportasi"
+    },
+    "JMAS": {
+      "name": "Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk PT",
+      "sector": "keuangan"
+    },
+    "CAMP": {
+      "name": "Campina Ice Cream Industry Tbk PT",
+      "sector": "konsumer_primer"
+    },
+    "DWGL": {
+      "name": "Dwi Guna Laksana Tbk PT",
+      "sector": "industri"
+    },
+    "IPCM": {
+      "name": "Jasa Armada Indonesia Tbk PT",
+      "sector": "industri"
+    },
+    "PBID": {
+      "name": "Panca Budi Idaman Tbk PT",
+      "sector": "industri"
+    },
+    "PCAR": {
+      "name": "Prima Cakrawala Abadi PT",
+      "sector": "konsumer_primer"
+    },
+    "LCKM": {
+      "name": "LCK Global Kedaton",
+      "sector": "industri"
+    },
+    "CITA": {
+      "name": "Cita Mineral Investindo Tbk PT",
+      "sector": "tambang_logam"
+    },
+    "BOSS": {
+      "name": "Borneo Olah Sarana Sukses PT",
+      "sector": "industri"
+    },
+    "HELI": {
+      "name": "Jaya Trishindo Tbk PT",
+      "sector": "industri"
+    },
+    "JSKY": {
+      "name": "Sky Energy Indonesia Tbk PT",
+      "sector": "energi_batubara"
+    },
+    "GHON": {
+      "name": "Gihon Telekomunikasi Indonesia Tbk PT",
+      "sector": "teknologi_media"
+    },
+    "INPS": {
+      "name": "Indah Prakasa Sentosa PT Tbk",
+      "sector": "industri"
+    },
+    "TDPM": {
+      "name": "Tridomain Performance Materials PT",
+      "sector": "industri"
+    },
+    "DFAM": {
+      "name": "PT Dafam Property Indonesia Tbk",
+      "sector": "properti"
+    },
+    "BRIS": {
+      "name": "Bank BRISyariah Tbk PT",
+      "sector": "keuangan"
+    },
+    "SPTO": {
+      "name": "PT Surya Pertiwi Tbk",
+      "sector": "industri"
+    },
+    "HEAL": {
+      "name": "Medikaloka Hermina PT",
+      "sector": "kesehatan"
+    },
+    "TRUK": {
+      "name": "Guna Timur Raya PT",
+      "sector": "industri"
+    },
+    "PZZA": {
+      "name": "PT Sarimelati Kencana Tbk",
+      "sector": "industri"
+    },
+    "SWAT": {
+      "name": "Sriwahana",
+      "sector": "industri"
+    },
+    "TUGU": {
+      "name": "Asuransi Tugu Pratama Indonesia Tbk PT",
+      "sector": "keuangan"
+    },
+    "MSIN": {
+      "name": "MNC Studios International Tbk PT",
+      "sector": "industri"
+    },
+    "KPAL": {
+      "name": "Steadfast Marine PT",
+      "sector": "industri"
+    },
+    "BTPS": {
+      "name": "Bank Tabungan Pensiunan Nasional Syariah PT",
+      "sector": "keuangan"
+    },
+    "NICK": {
+      "name": "Charnic Capital Tbk PT",
+      "sector": "industri"
+    },
+    "PRIM": {
+      "name": "Royal Prima PT",
+      "sector": "konsumer_primer"
+    },
+    "SKYB": {
+      "name": "Skybee Tbk PT",
+      "sector": "industri"
+    },
+    "TNCA": {
+      "name": "PT Trimuda Nuansa Citra Tbk",
+      "sector": "industri"
+    },
+    "BPTR": {
+      "name": "Batavia Prosperindo Trans Tbk PT",
+      "sector": "industri"
+    },
+    "IPCC": {
+      "name": "PT Indonesia Kendaraan Terminal Tbk",
+      "sector": "industri"
+    },
+    "RISE": {
+      "name": "Jaya Sukses Makmur Sentosa Tbk PT",
+      "sector": "industri"
+    },
+    "MAPA": {
+      "name": "MAP Aktif Adiperkasa Tbk PT",
+      "sector": "industri"
+    },
+    "TCPI": {
+      "name": "Transcoal Pacific Tbk PT",
+      "sector": "energi_batubara"
+    },
+    "POLL": {
+      "name": "Pollux Properti Indonesia Tbk PT",
+      "sector": "properti"
+    },
+    "MGRO": {
+      "name": "Mahkota Group Tbk PT",
+      "sector": "industri"
+    },
+    "NFCX": {
+      "name": "NFC Indonesia PT Tbk",
+      "sector": "industri"
+    },
+    "NUSA": {
+      "name": "Sinergi Megah Internusa Tbk PT",
+      "sector": "industri"
+    },
+    "FILM": {
+      "name": "MD Pictures Tbk PT",
+      "sector": "industri"
+    },
+    "ANDI": {
+      "name": "Andira Agro Tbk PT",
+      "sector": "industri"
+    },
+    "LAND": {
+      "name": "Trimitra Propertindo Tbk PT",
+      "sector": "tambang_logam"
+    },
+    "MOLI": {
+      "name": "Madusari Murni Indah Tbk PT",
+      "sector": "industri"
+    },
+    "DIGI": {
+      "name": "Arkadia Digital Media Tbk PT",
+      "sector": "teknologi_media"
+    },
+    "PANI": {
+      "name": "Pratama Abadi Nusa Industri Tbk PT",
+      "sector": "industri"
+    },
+    "CITY": {
+      "name": "Natura City Developments Tbk PT",
+      "sector": "properti"
+    },
+    "HKMU": {
+      "name": "HK Metals Utama Tbk PT",
+      "sector": "industri"
+    },
+    "KPAS": {
+      "name": "Cottonindo Ariesta Tbk PT",
+      "sector": "industri"
+    },
+    "MPRO": {
+      "name": "Propertindo Mulia Investama Tbk PT",
+      "sector": "keuangan"
+    },
+    "SAPX": {
+      "name": "Satria Antaran Prima Tbk PT",
+      "sector": "konsumer_primer"
+    },
+    "SURE": {
+      "name": "Super Energy Tbk PT",
+      "sector": "energi_batubara"
+    },
+    "GOOD": {
+      "name": "Garudafood Putra Putri Jaya Tbk PT",
+      "sector": "konsumer_primer"
+    },
+    "DUCK": {
+      "name": "PT Jaya Bersama Indo Tbk",
+      "sector": "industri"
+    },
+    "SKRN": {
+      "name": "Superkrane Mitra Utama Tbk PT",
+      "sector": "industri"
+    },
+    "CAKK": {
+      "name": "Cahayaputra Asa Keramik Tbk PT",
+      "sector": "industri"
+    },
+    "SATU": {
+      "name": "Kota Satu Properti Tbk PT",
+      "sector": "properti"
+    },
+    "YELO": {
+      "name": "Yelooo Integra Datanet Tbk PT",
+      "sector": "teknologi_media"
+    },
+    "SOSS": {
+      "name": "Shield On Service Tbk PT",
+      "sector": "industri"
+    },
+    "DEAL": {
+      "name": "Dewata Freight International Tbk PT",
+      "sector": "industri"
+    },
+    "POLA": {
+      "name": "Pool Advista Finance Tbk PT",
+      "sector": "keuangan"
+    },
+    "DIVA": {
+      "name": "Nusantara Voucher Distribution Tbk PT",
+      "sector": "konsumer_ritel"
+    },
+    "LUCK": {
+      "name": "Sentral Mitra Informatika Tbk PT",
+      "sector": "industri"
+    },
+    "SOTS": {
+      "name": "Satria Mega Kencana Tbk PT",
+      "sector": "industri"
+    },
+    "URBN": {
+      "name": "Urban Jakarta Propertindo Tbk PT",
+      "sector": "tambang_logam"
+    },
+    "ZONE": {
+      "name": "Mega Perintis Tbk PT",
+      "sector": "industri"
+    },
+    "PEHA": {
+      "name": "Phapros Tbk PT",
+      "sector": "industri"
+    },
+    "FOOD": {
+      "name": "Sentra Food Indonesia Tbk PT",
+      "sector": "konsumer_primer"
+    },
+    "BEEF": {
+      "name": "Estika Tata Tiara Tbk PT",
+      "sector": "industri"
+    },
+    "POLI": {
+      "name": "Pollux Investasi Internasional Tbk PT",
+      "sector": "industri"
+    },
+    "CLAY": {
+      "name": "Citra Putra Realty Tbk PT",
+      "sector": "properti"
+    },
+    "NATO": {
+      "name": "Nusantara Properti International Tbk PT",
+      "sector": "properti"
+    },
+    "JAYA": {
+      "name": "Armada Berjaya Trans Tbk PT",
+      "sector": "industri"
+    },
+    "COCO": {
+      "name": "PT Wahana Interfood Nusantara Tbk",
+      "sector": "konsumer_primer"
+    },
+    "MTPS": {
+      "name": "Meta Epsi Tbk PT",
+      "sector": "industri"
+    },
+    "CPRI": {
+      "name": "Capri Nusa Satu Properti Tbk PT",
+      "sector": "properti"
+    },
+    "HRME": {
+      "name": "Menteng Heritage Realty Tbk PT",
+      "sector": "properti"
+    },
+    "POSA": {
+      "name": "Bliss Properti Indonesia Tbk PT",
+      "sector": "properti"
+    },
+    "JAST": {
+      "name": "Jasnita Telekomindo Tbk PT",
+      "sector": "industri"
+    },
+    "FITT": {
+      "name": "Hotel Fitra International Tbk PT",
+      "sector": "industri"
+    },
+    "BOLA": {
+      "name": "Bali Bintang Sejahtera Tbk PT",
+      "sector": "industri"
+    },
+    "CCSI": {
+      "name": "Communication Cable Systems Indonesia Tbk PT",
+      "sector": "industri"
+    },
+    "SFAN": {
+      "name": "Surya Fajar Capital Tbk PT",
+      "sector": "industri"
+    },
+    "POLU": {
+      "name": "Golden Flower Tbk PT",
+      "sector": "tambang_logam"
+    },
+    "PAMG": {
+      "name": "Bima Sakti Pertiwi Tbk PT",
+      "sector": "industri"
+    },
+    "KAYU": {
+      "name": "Darmi Bersaudara Tbk PT",
+      "sector": "industri"
+    },
+    "ITIC": {
+      "name": "Indonesian Tobacco Tbk PT",
+      "sector": "konsumer_primer"
+    },
+    "KJEN": {
+      "name": "Krida Jaringan Nusantara Tbk PT",
+      "sector": "industri"
+    },
+    "ENVY": {
+      "name": "Envy Technologies Indonesia Tbk PT",
+      "sector": "industri"
+    },
+    "BLUE": {
+      "name": "Berkah Prima Perkasa Tbk PT",
+      "sector": "konsumer_primer"
+    },
+    "IPTV": {
+      "name": "MNC Vision Networks PT",
+      "sector": "industri"
+    },
+    "HDIT": {
+      "name": "Hensel Davest Indonesia Tbk PT",
+      "sector": "industri"
+    },
+    "SMKL": {
+      "name": "Satyamitra Kemas Lestari Tbk PT",
+      "sector": "tambang_logam"
+    },
+    "INOV": {
+      "name": "Inocycle Technology Tbk PT",
+      "sector": "teknologi_media"
+    },
+    "ARKA": {
+      "name": "Arkha Jayanti Persada PT",
+      "sector": "industri"
+    },
+    "EAST": {
+      "name": "Eastparc Hotel Tbk PT",
+      "sector": "industri"
+    },
+    "LIFE": {
+      "name": "Asuransi Jiwa Sinarmas Msig PT",
+      "sector": "keuangan"
+    },
+    "FUJI": {
+      "name": "Fuji Finance Indonesia Tbk PT",
+      "sector": "keuangan"
+    },
+    "KOTA": {
+      "name": "DMS Propertindo Tbk PT",
+      "sector": "tambang_logam"
+    },
+    "XCID": {
+      "name": "Ciptadana Asset Management REIT",
+      "sector": "industri"
+    },
+    "KEEN": {
+      "name": "Kencana Energi Lestari",
+      "sector": "industri"
+    },
+    "TFAS": {
+      "name": "Telefast Indonesia",
+      "sector": "industri"
+    },
+    "BAPI": {
+      "name": "Bhakti Agung Propertindo",
+      "sector": "tambang_logam"
+    },
+    "GGRP": {
+      "name": "Gunung Raja Paksi",
+      "sector": "industri"
+    },
+    "OPMS": {
+      "name": "Optima Prima Metal Sinergi",
+      "sector": "konsumer_primer"
+    },
+    "NZIA": {
+      "name": "Nusantara Almazia",
+      "sector": "industri"
+    },
+    "SLIS": {
+      "name": "Gaya Abadi Sempurna",
+      "sector": "industri"
+    },
+    "PURE": {
+      "name": "Trinitan Metals and Minerals",
+      "sector": "tambang_logam"
+    },
+    "IRRA": {
+      "name": "Itama Ranoraya",
+      "sector": "industri"
+    },
+    "DMMX": {
+      "name": "Digital Mediatama Maxima PT",
+      "sector": "teknologi_media"
+    },
+    "WOWS": {
+      "name": "Ginting Jaya Energi",
+      "sector": "tambang_logam"
+    },
+    "SINI": {
+      "name": "Singaraja Putra",
+      "sector": "industri"
+    },
+    "BREN": {
+      "name": "Barito Renewables Energy",
+      "sector": "energi_batubara"
+    },
+    "CUAN": {
+      "name": "Petrindo Jaya Kreasi",
+      "sector": "energi_batubara"
+    },
+    "AMMN": {
+      "name": "Amman Mineral Internasional",
+      "sector": "tambang_logam"
+    },
+    "NCKL": {
+      "name": "Trimegah Bangun Persada",
+      "sector": "tambang_logam"
+    },
+    "MBMA": {
+      "name": "Merdeka Battery Materials",
+      "sector": "tambang_logam"
+    },
+    "PGEO": {
+      "name": "Pertamina Geothermal Energy",
+      "sector": "energi_batubara"
+    },
+    "DCII": {
+      "name": "DCI Indonesia",
+      "sector": "teknologi_media"
+    },
+    "GOTO": {
+      "name": "GoTo Gojek Tokopedia",
+      "sector": "teknologi_media"
+    },
+    "BUKA": {
+      "name": "Bukalapak",
+      "sector": "teknologi_media"
+    },
+    "BANK": {
+      "name": "Bank Aladin Syariah",
+      "sector": "keuangan"
+    },
+    "AVIA": {
+      "name": "Avia Avian",
+      "sector": "industri"
+    },
+    "KEJU": {
+      "name": "Mulia Boga Raya",
+      "sector": "konsumer_primer"
+    },
+    "WIFI": {
+      "name": "Solusi Teknologi Informasi",
+      "sector": "teknologi_media"
+    },
+    "RANS": {
+      "name": "Rans Nusantara Berkah",
+      "sector": "konsumer_ritel"
+    },
+    "AXIO": {
+      "name": "Axiomtex",
+      "sector": "industri"
+    },
+    "BIKE": {
+      "name": "Sepeda Nusantara",
+      "sector": "industri"
+    },
+    "CBPE": {
+      "name": "Capitalinc Investment",
+      "sector": "keuangan"
+    },
+    "MHKI": {
+      "name": "Mentari Harta Kita",
+      "sector": "konsumer_ritel"
+    },
+    "BSML": {
+      "name": "Bumi Sampoerna Makmur",
+      "sector": "konsumer_primer"
+    },
+    "FORE": {
+      "name": "Fore Coffee",
+      "sector": "konsumer_ritel"
+    },
+    "REAL": {
+      "name": "Realia Properties",
+      "sector": "properti"
+    },
+    "DOOH": {
+      "name": "Digitalindo Cemerlang",
+      "sector": "teknologi_media"
+    },
+    "HMPT": {
+      "name": "Home Plate",
+      "sector": "konsumer_ritel"
+    },
+    "IBOS": {
+      "name": "Indo Beras Unggul",
+      "sector": "konsumer_primer"
+    },
+    "KTAN": {
+      "name": "Ketapang Nusantara",
+      "sector": "transportasi"
+    },
+    "MSCO": {
+      "name": "Mentari Sejahtera",
+      "sector": "konsumer_ritel"
+    },
+    "MSPO": {
+      "name": "Mitra Sejahtera Perkasa",
+      "sector": "konsumer_primer"
+    },
+    "SAGO": {
+      "name": "Wahana Prima",
+      "sector": "pertanian"
+    }
+  },
+  "by_sector": {
+    "industri": [
+      "AALI",
+      "ACES",
+      "ADES",
+      "ADMG",
+      "AGII",
+      "AIMS",
+      "AKKU",
+      "AKRA",
+      "AKSI",
+      "ALDO",
+      "ALKA",
+      "ALMI",
+      "ALTO",
+      "AMFG",
+      "AMIN",
+      "ANDI",
+      "APEX",
+      "APLI",
+      "APOL",
+      "ARGO",
+      "ARII",
+      "ARKA",
+      "ARNA",
+      "ARTA",
+      "ASGR",
+      "ASII",
+      "ASSA",
+      "ATIC",
+      "AUTO",
+      "AVIA",
+      "AXIO",
+      "BAJA",
+      "BAPA",
+      "BATA",
+      "BAYU",
+      "BCIP",
+      "BEEF",
+      "BELL",
+      "BEST",
+      "BIKA",
+      "BIKE",
+      "BIPI",
+      "BIPP",
+      "BISI",
+      "BMSR",
+      "BNBR",
+      "BOGA",
+      "BOLA",
+      "BOLT",
+      "BORN",
+      "BOSS",
+      "BPII",
+      "BPTR",
+      "BRAM",
+      "BRNA",
+      "BRPT",
+      "BSDE",
+      "BSSR",
+      "BTEK",
+      "BTEL",
+      "BTON",
+      "BUKK",
+      "BULL",
+      "BUVA",
+      "BYAN",
+      "CAKK",
+      "CANI",
+      "CARS",
+      "CASS",
+      "CCSI",
+      "CEKA",
+      "CINT",
+      "CLPI",
+      "CMPP",
+      "CNTX_p",
+      "CSAP",
+      "CTBN",
+      "CTTH",
+      "DAYA",
+      "DEAL",
+      "DEFI",
+      "DEWA",
+      "DKFT",
+      "DMAS",
+      "DPNS",
+      "DPUM",
+      "DSSA",
+      "DUCK",
+      "DUTI",
+      "DVLA",
+      "DWGL",
+      "EAST",
+      "ECII",
+      "EKAD",
+      "ENRG",
+      "ENVY",
+      "EPMT",
+      "ERAA",
+      "ERTX",
+      "ESSA",
+      "ESTI",
+      "ETWA",
+      "FASW",
+      "FILM",
+      "FISH",
+      "FITT",
+      "FMII",
+      "FORU",
+      "FPNI",
+      "GDST",
+      "GDYR",
+      "GEMA",
+      "GGRP",
+      "GIAA",
+      "GJTL",
+      "GLOB",
+      "GMFI",
+      "GMTD",
+      "GREN",
+      "GTBO",
+      "GWSA",
+      "HADE",
+      "HDIT",
+      "HDTX",
+      "HELI",
+      "HERO",
+      "HEXA",
+      "HKMU",
+      "HOKI",
+      "HOME",
+      "HOTL",
+      "HRTA",
+      "IATA",
+      "IBST",
+      "IDPR",
+      "IGAR",
+      "IIKP",
+      "IKAI",
+      "IKBI",
+      "IMAS",
+      "IMJS",
+      "IMPC",
+      "INAI",
+      "INCF",
+      "INCI",
+      "INDR",
+      "INDS",
+      "INDX",
+      "INKP",
+      "INPS",
+      "INRU",
+      "INTA",
+      "INTD",
+      "INTP",
+      "IPCC",
+      "IPCM",
+      "IPOL",
+      "IPTV",
+      "IRRA",
+      "ISSP",
+      "ITMA",
+      "JAST",
+      "JAWA",
+      "JAYA",
+      "JECC",
+      "JIHD",
+      "JKSW",
+      "JSPT",
+      "JTPE",
+      "KAYU",
+      "KBLI",
+      "KBLM",
+      "KBRI",
+      "KDSI",
+      "KEEN",
+      "KICI",
+      "KIJA",
+      "KINO",
+      "KIOS",
+      "KJEN",
+      "KKGI",
+      "KMTR",
+      "KOBX",
+      "KOIN",
+      "KONI",
+      "KOPI",
+      "KPAL",
+      "KPAS",
+      "KRAH",
+      "KRAS",
+      "LAPD",
+      "LCKM",
+      "LEAD",
+      "LION",
+      "LMAS",
+      "LMPI",
+      "LPLI",
+      "LSIP",
+      "LTLS",
+      "LUCK",
+      "MAIN",
+      "MAMI",
+      "MAPA",
+      "MAPI",
+      "MARI",
+      "MARK",
+      "MASA",
+      "MBSS",
+      "MCAS",
+      "MDKI",
+      "MDRN",
+      "MERK",
+      "META",
+      "MFMI",
+      "MGRO",
+      "MICE",
+      "MIDI",
+      "MIKA",
+      "MINA",
+      "MIRA",
+      "MKNT",
+      "MKPI",
+      "MLIA",
+      "MLPL",
+      "MOLI",
+      "MPMX",
+      "MRAT",
+      "MSIN",
+      "MSKY",
+      "MTFN",
+      "MTPS",
+      "MTRA",
+      "MYOH",
+      "MYRX",
+      "MYRX_p",
+      "MYTX",
+      "NFCX",
+      "NICK",
+      "NIPS",
+      "NRCA",
+      "NUSA",
+      "NZIA",
+      "OASA",
+      "OCAP",
+      "OKAS",
+      "PALM",
+      "PAMG",
+      "PANI",
+      "PANR",
+      "PBID",
+      "PBRX",
+      "PBSA",
+      "PEGE",
+      "PEHA",
+      "PGAS",
+      "PGLI",
+      "PICO",
+      "PJAA",
+      "PKPK",
+      "PNSE",
+      "POLI",
+      "POOL",
+      "PORT",
+      "POWR",
+      "PSAB",
+      "PSDN",
+      "PSKT",
+      "PTIS",
+      "PTPP",
+      "PTRO",
+      "PTSN",
+      "PTSP",
+      "PUDP",
+      "PYFA",
+      "PZZA",
+      "RANC",
+      "RBMS",
+      "RDTX",
+      "RELI",
+      "RICY",
+      "RIGS",
+      "RIMO",
+      "RISE",
+      "ROTI",
+      "RUIS",
+      "SAFE",
+      "SAME",
+      "SCBD",
+      "SCCO",
+      "SDMU",
+      "SFAN",
+      "SHID",
+      "SIAP",
+      "SIMA",
+      "SINI",
+      "SIPD",
+      "SKRN",
+      "SKYB",
+      "SLIS",
+      "SMBR",
+      "SMCB",
+      "SMDM",
+      "SMDR",
+      "SMGR",
+      "SMMA",
+      "SMRU",
+      "SMSM",
+      "SOCI",
+      "SONA",
+      "SOSS",
+      "SOTS",
+      "SPMA",
+      "SPTO",
+      "SRIL",
+      "SSIA",
+      "SSTM",
+      "STAR",
+      "STTP",
+      "SULI",
+      "SWAT",
+      "TALF",
+      "TAXI",
+      "TBMS",
+      "TCID",
+      "TDPM",
+      "TELE",
+      "TFAS",
+      "TFCO",
+      "TGKA",
+      "TIRA",
+      "TIRT",
+      "TKIM",
+      "TNCA",
+      "TOPS",
+      "TOTO",
+      "TPIA",
+      "TRAM",
+      "TRIL",
+      "TRIM",
+      "TRIO",
+      "TRIS",
+      "TRST",
+      "TRUK",
+      "TURI",
+      "ULTJ",
+      "UNIC",
+      "UNIT",
+      "UNTR",
+      "VOKS",
+      "WAPO",
+      "WEHA",
+      "WICO",
+      "WIIM",
+      "WINS",
+      "WOOD",
+      "XCID",
+      "YULE",
+      "ZBRA",
+      "ZONE"
+    ],
+    "teknologi_media": [
+      "ABBA",
+      "BMTR",
+      "BUKA",
+      "CENT",
+      "DCII",
+      "DIGI",
+      "DMMX",
+      "DOOH",
+      "DYAN",
+      "EMTK",
+      "EXCL",
+      "FREN",
+      "GHON",
+      "GOLD",
+      "GOTO",
+      "INOV",
+      "ISAT",
+      "KBLV",
+      "MDIA",
+      "MLPT",
+      "MNCN",
+      "MTDL",
+      "SCMA",
+      "SRSN",
+      "TLKM",
+      "TMPO",
+      "VIVA",
+      "WIFI",
+      "YELO"
+    ],
+    "keuangan": [
+      "ABDA",
+      "ABMM",
+      "ADMF",
+      "AGRO",
+      "AGRS",
+      "AHAP",
+      "AMAG",
+      "APIC",
+      "ARTO",
+      "ASBI",
+      "ASDM",
+      "ASJT",
+      "ASMI",
+      "ASRM",
+      "BABP",
+      "BACA",
+      "BANK",
+      "BBCA",
+      "BBHI",
+      "BBKP",
+      "BBLD",
+      "BBMD",
+      "BBNI",
+      "BBRI",
+      "BBTN",
+      "BBYB",
+      "BCAP",
+      "BDMN",
+      "BEKS",
+      "BFIN",
+      "BGTG",
+      "BHIT",
+      "BINA",
+      "BJBR",
+      "BJTM",
+      "BKSW",
+      "BMAS",
+      "BMRI",
+      "BNBA",
+      "BNGA",
+      "BNII",
+      "BNLI",
+      "BPFI",
+      "BRIS",
+      "BSIM",
+      "BSWD",
+      "BTPN",
+      "BTPS",
+      "BVIC",
+      "CASA",
+      "CBPE",
+      "CFIN",
+      "DNAR",
+      "FINN",
+      "FIRE",
+      "FUJI",
+      "HDFA",
+      "IBFN",
+      "INPC",
+      "JMAS",
+      "KREN",
+      "LIFE",
+      "LPGI",
+      "MAYA",
+      "MCOR",
+      "MEGA",
+      "MFIN",
+      "MGNA",
+      "MPRO",
+      "MREI",
+      "MTWI",
+      "NAGA",
+      "NISP",
+      "NOBU",
+      "PADI",
+      "PANS",
+      "PLAS",
+      "PNBN",
+      "PNBS",
+      "PNIN",
+      "PNLF",
+      "POLA",
+      "RMBA",
+      "SDRA",
+      "SRTG",
+      "TIFA",
+      "TRUS",
+      "TUGU",
+      "VICO",
+      "VINS",
+      "VRNA",
+      "WOMF"
+    ],
+    "energi_batubara": [
+      "ACST",
+      "ADRO",
+      "ARTI",
+      "ATPK",
+      "BREN",
+      "BRMS",
+      "BUMI",
+      "CNKO",
+      "CUAN",
+      "DOID",
+      "ELSA",
+      "GEMS",
+      "HRUM",
+      "INDY",
+      "ITMG",
+      "JSKY",
+      "MBAP",
+      "MEDC",
+      "MPOW",
+      "PGEO",
+      "PTBA",
+      "RAJA",
+      "SMMT",
+      "SQMI",
+      "SUGI",
+      "SURE",
+      "TCPI",
+      "TGRA",
+      "TOBA",
+      "TPMA",
+      "ZINC"
+    ],
+    "konstruksi": [
+      "ADHI",
+      "DGIK",
+      "JKON",
+      "TOTL",
+      "WEGE",
+      "WIKA",
+      "WSBP",
+      "WSKT",
+      "WTON"
+    ],
+    "konsumer_primer": [
+      "AKPI",
+      "APII",
+      "BIMA",
+      "BLTZ",
+      "BLUE",
+      "BSML",
+      "BUDI",
+      "CAMP",
+      "CLEO",
+      "COCO",
+      "CPIN",
+      "CPRO",
+      "DLTA",
+      "FAST",
+      "FOOD",
+      "GGRM",
+      "GOOD",
+      "GPRA",
+      "HMSP",
+      "IBOS",
+      "ICBP",
+      "INDF",
+      "ITIC",
+      "JPFA",
+      "KARW",
+      "KEJU",
+      "LCGP",
+      "LMSH",
+      "LPIN",
+      "MLBI",
+      "MPPA",
+      "MSPO",
+      "MYOR",
+      "OMRE",
+      "OPMS",
+      "PCAR",
+      "PRAS",
+      "PRIM",
+      "SAPX",
+      "SIDO",
+      "SKBM",
+      "SKLT",
+      "TSPC",
+      "UNVR",
+      "YPAS"
+    ],
+    "tambang_logam": [
+      "AMMN",
+      "ANJT",
+      "ANTM",
+      "BAPI",
+      "CITA",
+      "CKRA",
+      "CSIS",
+      "GOLL",
+      "INCO",
+      "JGLE",
+      "KOTA",
+      "LAND",
+      "MBMA",
+      "MBTO",
+      "MDKA",
+      "MITI",
+      "NCKL",
+      "NIKL",
+      "PDES",
+      "POLU",
+      "PURE",
+      "SMKL",
+      "TARA",
+      "TINS",
+      "TMAS",
+      "TMPI",
+      "URBN",
+      "WOWS"
+    ],
+    "konsumer_ritel": [
+      "AMRT",
+      "ARMY",
+      "DIVA",
+      "DNET",
+      "FORE",
+      "HMPT",
+      "LPPF",
+      "MAPB",
+      "MHKI",
+      "MSCO",
+      "RALS",
+      "RANS"
+    ],
+    "properti": [
+      "APLN",
+      "ASRI",
+      "BKDP",
+      "BKSL",
+      "CITY",
+      "CLAY",
+      "COWL",
+      "CPRI",
+      "CTRA",
+      "DART",
+      "DFAM",
+      "DILD",
+      "ELTY",
+      "EMDE",
+      "FORZ",
+      "GAMA",
+      "GSMF",
+      "HRME",
+      "ICON",
+      "INPP",
+      "JRPT",
+      "KPIG",
+      "LPCK",
+      "LPKR",
+      "LPPS",
+      "MDLN",
+      "MMLP",
+      "MTLA",
+      "MTSM",
+      "NASA",
+      "NATO",
+      "NIRO",
+      "PLIN",
+      "POLL",
+      "POSA",
+      "PPRE",
+      "PPRO",
+      "PWON",
+      "REAL",
+      "RODA",
+      "SATU",
+      "SMRA"
+    ],
+    "infrastruktur_telko": [
+      "BALI",
+      "LINK",
+      "POLY",
+      "SUPR",
+      "TBIG",
+      "TOWR"
+    ],
+    "transportasi": [
+      "BBRM",
+      "BIRD",
+      "CMNP",
+      "DSFI",
+      "HITS",
+      "JSMR",
+      "KTAN",
+      "LRNA",
+      "MABA",
+      "NELY",
+      "PSSI",
+      "SHIP",
+      "TAMU"
+    ],
+    "pertanian": [
+      "BWPT",
+      "DSNG",
+      "GZCO",
+      "MAGP",
+      "SAGO",
+      "SGRO",
+      "SIMP",
+      "SMAR",
+      "SSMS",
+      "TBLA",
+      "UNSP"
+    ],
+    "kesehatan": [
+      "HEAL",
+      "INAF",
+      "KAEF",
+      "KIAS",
+      "KLBF",
+      "PRDA",
+      "SDPC",
+      "SILO",
+      "SQBI_p",
+      "SRAJ"
+    ]
+  }
+}
