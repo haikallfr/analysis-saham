@@ -24,7 +24,7 @@ from celery_app import celery
 from fetch_engine import fetch_stock, calc_piotroski, calc_altman_beneish, calc_technical, detect_accumulation
 
 # ── Redis client (shared oleh task) ─────────────────────────────────────────
-_redis = redis_lib.Redis(host="localhost", port=6379, db=0, decode_responses=True)
+_redis = redis_lib.Redis.from_url(os.getenv("REDIS_URL", "redis://localhost:6379/0"), decode_responses=True)
 SCAN_TTL = 7200  # 2 jam
 
 
@@ -175,23 +175,7 @@ def scan_advanced(self, session_id: str, tickers: list):
             
             # Accumulation (OBV proxy)
             res["accumulation"] = detect_accumulation(tk)
-            
-            is_cheap = bool(res.get("recommended_method"))
-            f_score = res.get("piotroski", {}).get("score", 0) if res.get("piotroski") else 0
-            is_quality = f_score >= 7
-            
-            tech = res.get("technical", {})
-            is_uptrend = tech.get("is_uptrend", False) if tech else False
-            macd_stat = tech.get("macd", {}).get("status", "") if tech and "macd" in tech else ""
-            is_momentum = is_uptrend and "death_cross" not in macd_stat
-            
-            acc_score = res.get("accumulation", {}).get("score", 0) if res.get("accumulation") else 0
-            is_accumulated = acc_score >= 60
-            
-            if is_cheap and is_quality and is_momentum and is_accumulated:
-                res["high_probability_status"] = "🔥 High Probability"
-            else:
-                res["high_probability_status"] = "Normal"
+            # Removed high_probability_status logic
 
         final_results.append(res)
         

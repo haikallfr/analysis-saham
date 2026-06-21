@@ -4,7 +4,7 @@ import { useEffect, useState, useCallback } from "react";
 import { motion } from "framer-motion";
 import { RefreshCw, BarChart2, Info, Zap } from "lucide-react";
 
-const API = "http://127.0.0.1:5050";
+const API = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:5050";
 
 type HeatNode = {
   ticker: string;
@@ -200,7 +200,7 @@ export default function HeatmapPage() {
           <Info size={40} className="text-slate-600 mb-4" />
           <h3 className="text-white font-bold text-lg mb-2">Belum Ada Data Heatmap</h3>
           <p className="text-slate-400 text-sm max-w-md">
-            Jalankan <strong>Scanner</strong> atau <strong>High-Probability Scanner</strong> terlebih dahulu.
+            Jalankan <strong>Scanner</strong> terlebih dahulu.
             Heatmap akan otomatis terisi dari hasil scan Anda.
           </p>
         </div>

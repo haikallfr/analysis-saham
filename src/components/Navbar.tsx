@@ -10,7 +10,6 @@ export default function Navbar() {
 
   const links = [
     { href: "/", label: "Scanner", icon: LayoutDashboard },
-    { href: "/high-probability", label: "High-Prob", icon: CheckCircle },
     { href: "/heatmap", label: "Heatmap", icon: BarChart2 },
     { href: "/compare", label: "Compare", icon: TrendingUp },
   ];

@@ -1,0 +1,31 @@
+ 
+ -------------- celery@Haikals-MacBook-Pro.local v5.6.3 (recovery)
+--- ***** ----- 
+-- ******* ---- macOS-26.5.1-arm64-arm-64bit 2026-06-21 20:31:06
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         idx_scanner:0x1045efa40
+- ** ---------- .> transport:   redis://localhost:6379/0
+- ** ---------- .> results:     redis://localhost:6379/0
+- *** --- * --- .> concurrency: 8 (solo)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.scan_advanced
+  . tasks.scan_sector
+
+[2026-06-21 20:31:07,050: INFO/MainProcess] Connected to redis://localhost:6379/0
+[2026-06-21 20:31:07,053: INFO/MainProcess] mingle: searching for neighbors
+[2026-06-21 20:31:07,523: WARNING/MainProcess] [ENGINE] USD/IDR: 17821.0
+[2026-06-21 20:31:08,062: INFO/MainProcess] mingle: all alone
+[2026-06-21 20:31:08,075: INFO/MainProcess] celery@Haikals-MacBook-Pro.local ready.
+[2026-06-21 20:31:08,078: INFO/MainProcess] Task tasks.scan_advanced[69784699-40db-4757-bcc9-c407f8b9ac87] received
+[2026-06-21 20:31:08,299: WARNING/MainProcess] [CACHE] Warning: No module named 'database'
+[2026-06-21 20:31:08,691: WARNING/MainProcess] [ENGINE] USD→IDR fix (rate 17821.0): eps=0.012602 price=2060
+[2026-06-21 20:31:08,933: WARNING/MainProcess] [CACHE SAVE] Warning: No module named 'database'
+[2026-06-21 20:31:09,276: WARNING/MainProcess] DCF debug: FCF <= 0 for TPIA.JK
+[2026-06-21 20:31:10,531: INFO/MainProcess] Task tasks.scan_advanced[69784699-40db-4757-bcc9-c407f8b9ac87] succeeded in 2.4531239999996615s: {'session_id': 'ff703937-9f5c-49fa-96d2-2c76d174bd46', 'total': 1, 'success': 1}

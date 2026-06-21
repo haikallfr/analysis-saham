@@ -95,7 +95,7 @@ else:
 #  REDIS CLIENT
 # ══════════════════════════════════════════════════════════════════════════════
 
-_redis = redis_lib.Redis(host="localhost", port=6379, db=0, decode_responses=True)
+_redis = redis_lib.Redis.from_url(_os.getenv("REDIS_URL", "redis://localhost:6379/0"), decode_responses=True)
 SCAN_TTL = 7200  # 2 jam
 
 def _rkey(sid: str, suffix: str) -> str:

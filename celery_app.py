@@ -4,7 +4,8 @@ Semua task scan IDX menggunakan antrean ini.
 """
 from celery import Celery
 
-REDIS_URL = "redis://localhost:6379/0"
+import os
+REDIS_URL = os.getenv("REDIS_URL", "redis://localhost:6379/0")
 
 celery = Celery(
     "idx_scanner",

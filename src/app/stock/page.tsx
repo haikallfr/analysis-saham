@@ -46,7 +46,8 @@ function StockDetailContent() {
 
     const fetchDetail = async () => {
       try {
-        const res = await fetch(`http://127.0.0.1:5050/api/stock/${ticker}`);
+        const API = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:5050";
+        const res = await fetch(`${API}/api/stock/${ticker}`);
         const result = await res.json();
         
         if (result.status === "error" || result.error_msg) throw new Error(result.error_msg || "Data saham tidak ditemukan.");

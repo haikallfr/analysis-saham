@@ -4,7 +4,7 @@ import { useState, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Play, Search, AlertCircle, RefreshCw, TrendingUp, TrendingDown, Award } from "lucide-react";
 
-const API = "http://127.0.0.1:5050";
+const API = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:5050";
 
 type ScanStatus = "idle" | "scanning" | "done" | "error";
 

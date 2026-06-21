@@ -1,0 +1,32 @@
+services:
+  # 1. Redis Instance
+  - type: redis
+    name: analysis-saham-redis
+    ipAllowList: [] # only allow internal connections
+    plan: free
+
+  # 2. Flask Backend (API)
+  - type: web
+    name: analysis-saham-api
+    env: docker
+    plan: free
+    dockerCommand: gunicorn --bind 0.0.0.0:5050 --workers 2 --threads 4 app:app
+    envVars:
+      - key: REDIS_URL
+        fromService:
+          type: redis
+          name: analysis-saham-redis
+          property: connectionString
+
+  # 3. Celery Worker (Background tasks)
+  - type: worker
+    name: analysis-saham-worker
+    env: docker
+    plan: free
+    dockerCommand: celery -A celery_app worker --loglevel=info
+    envVars:
+      - key: REDIS_URL
+        fromService:
+          type: redis
+          name: analysis-saham-redis
+          property: connectionString

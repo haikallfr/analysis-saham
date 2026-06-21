@@ -1,0 +1,43 @@
+ 
+ -------------- celery@Haikals-MacBook-Pro.local v5.6.3 (recovery)
+--- ***** ----- 
+-- ******* ---- macOS-26.5.1-arm64-arm-64bit 2026-06-21 14:47:46
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         idx_scanner:0x104ccbb90
+- ** ---------- .> transport:   redis://localhost:6379/0
+- ** ---------- .> results:     redis://localhost:6379/0
+- *** --- * --- .> concurrency: 8 (solo)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . tasks.scan_advanced
+  . tasks.scan_sector
+
+[2026-06-21 14:47:46,927: INFO/MainProcess] Connected to redis://localhost:6379/0
+[2026-06-21 14:47:46,931: INFO/MainProcess] mingle: searching for neighbors
+[2026-06-21 14:47:47,529: WARNING/MainProcess] [ENGINE] USD/IDR: 17821.0
+[2026-06-21 14:47:47,940: INFO/MainProcess] mingle: all alone
+[2026-06-21 14:47:47,965: INFO/MainProcess] celery@Haikals-MacBook-Pro.local ready.
+[2026-06-21 15:44:27,210: INFO/MainProcess] Task tasks.scan_advanced[373013fe-75a0-4787-a2b8-aa90f22f16a1] received
+[2026-06-21 15:44:27,418: WARNING/MainProcess] [CACHE] Warning: No module named 'database'
+[2026-06-21 15:44:27,776: WARNING/MainProcess] [ENGINE] USD→IDR fix (rate 17821.0): eps=0.012602 price=2060
+[2026-06-21 15:44:28,012: WARNING/MainProcess] [CACHE SAVE] Warning: No module named 'database'
+[2026-06-21 15:44:28,406: WARNING/MainProcess] DCF debug: FCF <= 0 for TPIA.JK
+[2026-06-21 15:44:29,648: INFO/MainProcess] Task tasks.scan_advanced[373013fe-75a0-4787-a2b8-aa90f22f16a1] succeeded in 2.4377331670002604s: {'session_id': 'fa86dd6c-2b72-459a-9dd8-e9594cb706f8', 'total': 1, 'success': 1}
+[2026-06-21 15:45:11,516: INFO/MainProcess] Task tasks.scan_advanced[e0cd15a2-ef13-4b23-abcc-cc67c652a7e3] received
+[2026-06-21 15:45:11,674: WARNING/MainProcess] [CACHE] Warning: No module named 'database'
+[2026-06-21 15:45:12,064: WARNING/MainProcess] [ENGINE] USD→IDR fix (rate 17821.0): eps=0.000988 price=3730
+[2026-06-21 15:45:12,136: WARNING/MainProcess] [CACHE SAVE] Warning: No module named 'database'
+[2026-06-21 15:45:12,452: WARNING/MainProcess] [ENGINE] USD→IDR fix (rate 17821.0): eps=0.006378 price=3730
+[2026-06-21 15:45:13,668: INFO/MainProcess] Task tasks.scan_advanced[e0cd15a2-ef13-4b23-abcc-cc67c652a7e3] succeeded in 2.151023082999018s: {'session_id': '1f195f4f-3994-4ad0-b206-4bb1ace8e41a', 'total': 1, 'success': 1}
+[2026-06-21 20:23:02,470: INFO/MainProcess] Task tasks.scan_advanced[8032c13c-218d-4cb0-88f0-33ea73f66098] received
+[2026-06-21 20:23:02,682: WARNING/MainProcess] [CACHE] Warning: No module named 'database'
+[2026-06-21 20:23:02,715: WARNING/MainProcess] [ENGINE] USD→IDR fix (rate 17821.0): eps=0.012602 price=2060
+[2026-06-21 20:23:02,954: WARNING/MainProcess] [CACHE SAVE] Warning: No module named 'database'
+[2026-06-21 20:23:03,111: WARNING/MainProcess] DCF debug: FCF <= 0 for TPIA.JK
+[2026-06-21 20:23:04,370: INFO/MainProcess] Task tasks.scan_advanced[8032c13c-218d-4cb0-88f0-33ea73f66098] succeeded in 1.8985998330026632s: {'session_id': '4cafdce9-cc77-4673-85a4-81a7fdb192bc', 'total': 1, 'success': 1}

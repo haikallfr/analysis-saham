@@ -17,7 +17,8 @@ export default function ComparePage() {
     setData([]);
 
     try {
-      const res = await fetch(`http://127.0.0.1:5050/api/compare?tickers=${encodeURIComponent(tickers)}`);
+      const API = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:5050";
+      const res = await fetch(`${API}/api/compare?tickers=${encodeURIComponent(tickers)}`);
       const result = await res.json();
       if (result.error) throw new Error(result.error);
       setData(result.data);

@@ -13,7 +13,8 @@ export default function ActiveScanOverlay() {
     // Poll global status every 3 seconds
     const interval = setInterval(async () => {
       try {
-        const res = await fetch(`http://127.0.0.1:5050/api/global-status?t=${Date.now()}`);
+        const API = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:5050";
+        const res = await fetch(`${API}/api/global-status?t=${Date.now()}`);
         const data = await res.json();
         if (data.active) {
           setStatus(data);
@@ -34,7 +35,8 @@ export default function ActiveScanOverlay() {
     
     try {
       const endpoint = isCancel ? "/api/cancel-scan" : "/api/dismiss-scan";
-      await fetch(`http://127.0.0.1:5050${endpoint}`, {
+      const API = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:5050";
+      await fetch(`${API}${endpoint}`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ session_id: status.session_id })
@@ -48,7 +50,7 @@ export default function ActiveScanOverlay() {
   };
 
   const isDone = status?.status === "done";
-  const targetPage = status?.mode === "single" ? "/high-probability" : "/";
+  const targetPage = "/";
 
   return (
     <AnimatePresence>
